@@ -7,6 +7,9 @@ el 1 de Febrero del 2016.
 
 Incluyen 31 departamentos y 1124 municipios / pueblos / ciudades.
 
+Los municipios contienen el código de identificación proporcionado por la DIAN
+para la identificación del mismo.
+
 ## Utilización JavaScript
 
 Método gracias a Rich en Rich's Blog:

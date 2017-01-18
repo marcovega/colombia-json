@@ -1,1298 +1,3503 @@
-[  
-    {  
-        "id":0,
-        "departamento":"Amazonas",
-        "ciudades":[  
-            "Leticia",
-            "Puerto Nari\u00f1o"
-        ]
-    },
-    {  
-        "id":1,
-        "departamento":"Antioquia",
-        "ciudades":[  
-            "Abejorral",
-            "Abriaqu\u00ed",
-            "Alejandr\u00eda",
-            "Amag\u00e1",
-            "Amalfi",
-            "Andes",
-            "Angel\u00f3polis",
-            "Angostura",
-            "Anor\u00ed",
-            "Anz\u00e1",
-            "Apartad\u00f3",
-            "Arboletes",
-            "Argelia",
-            "Armenia",
-            "Barbosa",
-            "Bello",
-            "Belmira",
-            "Betania",
-            "Betulia",
-            "Brice\u00f1o",
-            "Buritic\u00e1",
-            "C\u00e1ceres",
-            "Caicedo",
-            "Caldas",
-            "Campamento",
-            "Ca\u00f1asgordas",
-            "Caracol\u00ed",
-            "Caramanta",
-            "Carepa",
-            "Carolina del Pr\u00edncipe",
-            "Caucasia",
-            "Chigorod\u00f3",
-            "Cisneros",
-            "Ciudad Bol\u00edvar",
-            "Cocorn\u00e1",
-            "Concepci\u00f3n",
-            "Concordia",
-            "Copacabana",
-            "Dabeiba",
-            "Donmat\u00edas",
-            "Eb\u00e9jico",
-            "El Bagre",
-            "El Carmen de Viboral",
-            "El Pe\u00f1ol",
-            "El Retiro",
-            "El Santuario",
-            "Entrerr\u00edos",
-            "Envigado",
-            "Fredonia",
-            "Frontino",
-            "Giraldo",
-            "Girardota",
-            "G\u00f3mez Plata",
-            "Granada",
-            "Guadalupe",
-            "Guarne",
-            "Guatap\u00e9",
-            "Heliconia",
-            "Hispania",
-            "Itag\u00fc\u00ed",
-            "Ituango",
-            "Jard\u00edn",
-            "Jeric\u00f3",
-            "La Ceja",
-            "La Estrella",
-            "La Pintada",
-            "La Uni\u00f3n",
-            "Liborina",
-            "Maceo",
-            "Marinilla",
-            "Medell\u00edn",
-            "Montebello",
-            "Murind\u00f3",
-            "Mutat\u00e1",
-            "Nari\u00f1o",
-            "Nech\u00ed",
-            "Necocl\u00ed",
-            "Olaya",
-            "Peque",
-            "Pueblorrico",
-            "Puerto Berr\u00edo",
-            "Puerto Nare",
-            "Puerto Triunfo",
-            "Remedios",
-            "Rionegro",
-            "Sabanalarga",
-            "Sabaneta",
-            "Salgar",
-            "San Andr\u00e9s de Cuerquia",
-            "San Carlos",
-            "San Francisco",
-            "San Jer\u00f3nimo",
-            "San Jos\u00e9 de la Monta\u00f1a",
-            "San Juan de Urab\u00e1",
-            "San Luis",
-            "San Pedro de Urab\u00e1",
-            "San Pedro de los Milagros",
-            "San Rafael",
-            "San Roque",
-            "San Vicente",
-            "Santa B\u00e1rbara",
-            "Santa Fe de Antioquia",
-            "Santa Rosa de Osos",
-            "Santo Domingo",
-            "Segovia",
-            "Sons\u00f3n",
-            "Sopetr\u00e1n",
-            "T\u00e1mesis",
-            "Taraz\u00e1",
-            "Tarso",
-            "Titirib\u00ed",
-            "Toledo",
-            "Turbo",
-            "Uramita",
-            "Urrao",
-            "Valdivia",
-            "Valpara\u00edso",
-            "Vegach\u00ed",
-            "Venecia",
-            "Vig\u00eda del Fuerte",
-            "Yal\u00ed",
-            "Yarumal",
-            "Yolomb\u00f3",
-            "Yond\u00f3",
-            "Zaragoza"
-        ]
-    },
-    {  
-        "id":2,
-        "departamento":"Arauca",
-        "ciudades":[  
-            "Arauca",
-            "Arauquita",
-            "Cravo Norte",
-            "Fortul",
-            "Puerto Rond\u00f3n",
-            "Saravena",
-            "Tame"
-        ]
-    },
-    {  
-        "id":3,
-        "departamento":"Atl\u00e1ntico",
-        "ciudades":[  
-            "Baranoa",
-            "Barranquilla",
-            "Campo de la Cruz",
-            "Candelaria",
-            "Galapa",
-            "Juan de Acosta",
-            "Luruaco",
-            "Malambo",
-            "Manat\u00ed",
-            "Palmar de Varela",
-            "Pioj\u00f3",
-            "Polonuevo",
-            "Ponedera",
-            "Puerto Colombia",
-            "Repel\u00f3n",
-            "Sabanagrande",
-            "Sabanalarga",
-            "Santa Luc\u00eda",
-            "Santo Tom\u00e1s",
-            "Soledad",
-            "Su\u00e1n",
-            "Tubar\u00e1",
-            "Usiacur\u00ed"
-        ]
-    },
-    {  
-        "id":4,
-        "departamento":"Bol\u00edvar",
-        "ciudades":[  
-            "Ach\u00ed",
-            "Altos del Rosario",
-            "Arenal",
-            "Arjona",
-            "Arroyohondo",
-            "Barranco de Loba",
-            "Brazuelo de Papayal",
-            "Calamar",
-            "Cantagallo",
-            "Cartagena de Indias",
-            "Cicuco",
-            "Clemencia",
-            "C\u00f3rdoba",
-            "El Carmen de Bol\u00edvar",
-            "El Guamo",
-            "El Pe\u00f1\u00f3n",
-            "Hatillo de Loba",
-            "Magangu\u00e9",
-            "Mahates",
-            "Margarita",
-            "Mar\u00eda la Baja",
-            "Momp\u00f3s",
-            "Montecristo",
-            "Morales",
-            "Noros\u00ed",
-            "Pinillos",
-            "Regidor",
-            "R\u00edo Viejo",
-            "San Crist\u00f3bal",
-            "San Estanislao",
-            "San Fernando",
-            "San Jacinto del Cauca",
-            "San Jacinto",
-            "San Juan Nepomuceno",
-            "San Mart\u00edn de Loba",
-            "San Pablo",
-            "Santa Catalina",
-            "Santa Rosa",
-            "Santa Rosa del Sur",
-            "Simit\u00ed",
-            "Soplaviento",
-            "Talaigua Nuevo",
-            "Tiquisio",
-            "Turbaco",
-            "Turban\u00e1",
-            "Villanueva",
-            "Zambrano"
-        ]
-    },
-    {  
-        "id":5,
-        "departamento":"Boyac\u00e1",
-        "ciudades":[  
-            "Almeida",
-            "Aquitania",
-            "Arcabuco",
-            "Bel\u00e9n",
-            "Berbeo",
-            "Bet\u00e9itiva",
-            "Boavita",
-            "Boyac\u00e1",
-            "Brice\u00f1o",
-            "Buenavista",
-            "Busbanz\u00e1",
-            "Caldas",
-            "Campohermoso",
-            "Cerinza",
-            "Chinavita",
-            "Chiquinquir\u00e1",
-            "Ch\u00edquiza",
-            "Chiscas",
-            "Chita",
-            "Chitaraque",
-            "Chivat\u00e1",
-            "Chivor",
-            "Ci\u00e9nega",
-            "C\u00f3mbita",
-            "Coper",
-            "Corrales",
-            "Covarach\u00eda",
-            "Cubar\u00e1",
-            "Cucaita",
-            "Cu\u00edtiva",
-            "Duitama",
-            "El Cocuy",
-            "El Espino",
-            "Firavitoba",
-            "Floresta",
-            "Gachantiv\u00e1",
-            "G\u00e1meza",
-            "Garagoa",
-            "Guacamayas",
-            "Guateque",
-            "Guayat\u00e1",
-            "G\u00fcic\u00e1n",
-            "Iza",
-            "Jenesano",
-            "Jeric\u00f3",
-            "La Capilla",
-            "La Uvita",
-            "La Victoria",
-            "Labranzagrande",
-            "Macanal",
-            "Marip\u00ed",
-            "Miraflores",
-            "Mongua",
-            "Mongu\u00ed",
-            "Moniquir\u00e1",
-            "Motavita",
-            "Muzo",
-            "Nobsa",
-            "Nuevo Col\u00f3n",
-            "Oicat\u00e1",
-            "Otanche",
-            "Pachavita",
-            "P\u00e1ez",
-            "Paipa",
-            "Pajarito",
-            "Panqueba",
-            "Pauna",
-            "Paya",
-            "Paz del R\u00edo",
-            "Pesca",
-            "Pisba",
-            "Puerto Boyac\u00e1",
-            "Qu\u00edpama",
-            "Ramiriqu\u00ed",
-            "R\u00e1quira",
-            "Rond\u00f3n",
-            "Saboy\u00e1",
-            "S\u00e1chica",
-            "Samac\u00e1",
-            "San Eduardo",
-            "San Jos\u00e9 de Pare",
-            "San Luis de Gaceno",
-            "San Mateo",
-            "San Miguel de Sema",
-            "San Pablo de Borbur",
-            "Santa Mar\u00eda",
-            "Santa Rosa de Viterbo",
-            "Santa Sof\u00eda",
-            "Santana",
-            "Sativanorte",
-            "Sativasur",
-            "Siachoque",
-            "Soat\u00e1",
-            "Socha",
-            "Socot\u00e1",
-            "Sogamoso",
-            "Somondoco",
-            "Sora",
-            "Sorac\u00e1",
-            "Sotaquir\u00e1",
-            "Susac\u00f3n",
-            "Sutamarch\u00e1n",
-            "Sutatenza",
-            "Tasco",
-            "Tenza",
-            "Tiban\u00e1",
-            "Tibasosa",
-            "Tinjac\u00e1",
-            "Tipacoque",
-            "Toca",
-            "Tog\u00fc\u00ed",
-            "T\u00f3paga",
-            "Tota",
-            "Tunja",
-            "Tunungu\u00e1",
-            "Turmequ\u00e9",
-            "Tuta",
-            "Tutaz\u00e1",
-            "\u00dambita",
-            "Ventaquemada",
-            "Villa de Leyva",
-            "Viracach\u00e1",
-            "Zetaquira"
-        ]
-    },
-    {  
-        "id":6,
-        "departamento":"Caldas",
-        "ciudades":[  
-            "Aguadas",
-            "Anserma",
-            "Aranzazu",
-            "Belalc\u00e1zar",
-            "Chinchin\u00e1",
-            "Filadelfia",
-            "La Dorada",
-            "La Merced",
-            "Manizales",
-            "Manzanares",
-            "Marmato",
-            "Marquetalia",
-            "Marulanda",
-            "Neira",
-            "Norcasia",
-            "P\u00e1cora",
-            "Palestina",
-            "Pensilvania",
-            "Riosucio",
-            "Risaralda",
-            "Salamina",
-            "Saman\u00e1",
-            "San Jos\u00e9",
-            "Sup\u00eda",
-            "Victoria",
-            "Villamar\u00eda",
-            "Viterbo"
-        ]
-    },
-    {  
-        "id":7,
-        "departamento":"Caquet\u00e1",
-        "ciudades":[  
-            "Albania",
-            "Bel\u00e9n de los Andaqu\u00edes",
-            "Cartagena del Chair\u00e1",
-            "Curillo",
-            "El Doncello",
-            "El Paujil",
-            "Florencia",
-            "La Monta\u00f1ita",
-            "Mil\u00e1n",
-            "Morelia",
-            "Puerto Rico",
-            "San Jos\u00e9 del Fragua",
-            "San Vicente del Cagu\u00e1n",
-            "Solano",
-            "Solita",
-            "Valpara\u00edso"
-        ]
-    },
-    {  
-        "id":8,
-        "departamento":"Casanare",
-        "ciudades":[  
-            "Aguazul",
-            "Ch\u00e1meza",
-            "Hato Corozal",
-            "La Salina",
-            "Man\u00ed",
-            "Monterrey",
-            "Nunch\u00eda",
-            "Orocu\u00e9",
-            "Paz de Ariporo",
-            "Pore",
-            "Recetor",
-            "Sabanalarga",
-            "S\u00e1cama",
-            "San Luis de Palenque",
-            "T\u00e1mara",
-            "Tauramena",
-            "Trinidad",
-            "Villanueva",
-            "Yopal"
-        ]
-    },
-    {  
-        "id":9,
-        "departamento":"Cauca",
-        "ciudades":[  
-            "Almaguer",
-            "Argelia",
-            "Balboa",
-            "Bol\u00edvar",
-            "Buenos Aires",
-            "Cajib\u00edo",
-            "Caldono",
-            "Caloto",
-            "Corinto",
-            "El Tambo",
-            "Florencia",
-            "Guachen\u00e9",
-            "Guap\u00ed",
-            "Inz\u00e1",
-            "Jambal\u00f3",
-            "La Sierra",
-            "La Vega",
-            "L\u00f3pez de Micay",
-            "Mercaderes",
-            "Miranda",
-            "Morales",
-            "Padilla",
-            "P\u00e1ez",
-            "Pat\u00eda",
-            "Piamonte",
-            "Piendam\u00f3",
-            "Popay\u00e1n",
-            "Puerto Tejada",
-            "Purac\u00e9",
-            "Rosas",
-            "San Sebasti\u00e1n",
-            "Santa Rosa",
-            "Santander de Quilichao",
-            "Silvia",
-            "Sotar\u00e1",
-            "Su\u00e1rez",
-            "Sucre",
-            "Timb\u00edo",
-            "Timbiqu\u00ed",
-            "Torib\u00edo",
-            "Totor\u00f3",
-            "Villa Rica"
-        ]
-    },
-    {  
-        "id":10,
-        "departamento":"Cesar",
-        "ciudades":[  
-            "Aguachica",
-            "Agust\u00edn Codazzi",
-            "Astrea",
-            "Becerril",
-            "Bosconia",
-            "Chimichagua",
-            "Chiriguan\u00e1",
-            "Curuman\u00ed",
-            "El Copey",
-            "El Paso",
-            "Gamarra",
-            "Gonz\u00e1lez",
-            "La Gloria (Cesar)",
-            "La Jagua de Ibirico",
-            "La Paz",
-            "Manaure Balc\u00f3n del Cesar",
-            "Pailitas",
-            "Pelaya",
-            "Pueblo Bello",
-            "R\u00edo de Oro",
-            "San Alberto",
-            "San Diego",
-            "San Mart\u00edn",
-            "Tamalameque",
-            "Valledupar"
-        ]
-    },
-    {  
-        "id":11,
-        "departamento":"Choc\u00f3",
-        "ciudades":[  
-            "Acand\u00ed",
-            "Alto Baud\u00f3",
-            "Bagad\u00f3",
-            "Bah\u00eda Solano",
-            "Bajo Baud\u00f3",
-            "Bojay\u00e1",
-            "Cant\u00f3n de San Pablo",
-            "C\u00e9rtegui",
-            "Condoto",
-            "El Atrato",
-            "El Carmen de Atrato",
-            "El Carmen del Dari\u00e9n",
-            "Istmina",
-            "Jurad\u00f3",
-            "Litoral de San Juan",
-            "Llor\u00f3",
-            "Medio Atrato",
-            "Medio Baud\u00f3",
-            "Medio San Juan",
-            "N\u00f3vita",
-            "Nuqu\u00ed",
-            "Quibd\u00f3",
-            "R\u00edo Ir\u00f3",
-            "R\u00edo Quito",
-            "Riosucio",
-            "San Jos\u00e9 del Palmar",
-            "Sip\u00ed",
-            "Tad\u00f3",
-            "Uni\u00f3n Panamericana",
-            "Ungu\u00eda"
-        ]
-    },
-    {  
-        "id":12,
-        "departamento":"Cundinamarca",
-        "ciudades":[  
-            "Agua de Dios",
-            "Alb\u00e1n",
-            "Anapoima",
-            "Anolaima",
-            "Apulo",
-            "Arbel\u00e1ez",
-            "Beltr\u00e1n",
-            "Bituima",
-            "Bogot\u00e1",
-            "Bojac\u00e1",
-            "Cabrera",
-            "Cachipay",
-            "Cajic\u00e1",
-            "Caparrap\u00ed",
-            "C\u00e1queza",
-            "Carmen de Carupa",
-            "Chaguan\u00ed",
-            "Ch\u00eda",
-            "Chipaque",
-            "Choach\u00ed",
-            "Chocont\u00e1",
-            "Cogua",
-            "Cota",
-            "Cucunub\u00e1",
-            "El Colegio",
-            "El Pe\u00f1\u00f3n",
-            "El Rosal",
-            "Facatativ\u00e1",
-            "F\u00f3meque",
-            "Fosca",
-            "Funza",
-            "F\u00faquene",
-            "Fusagasug\u00e1",
-            "Gachal\u00e1",
-            "Gachancip\u00e1",
-            "Gachet\u00e1",
-            "Gama",
-            "Girardot",
-            "Granada",
-            "Guachet\u00e1",
-            "Guaduas",
-            "Guasca",
-            "Guataqu\u00ed",
-            "Guatavita",
-            "Guayabal de S\u00edquima",
-            "Guayabetal",
-            "Guti\u00e9rrez",
-            "Jerusal\u00e9n",
-            "Jun\u00edn",
-            "La Calera",
-            "La Mesa",
-            "La Palma",
-            "La Pe\u00f1a",
-            "La Vega",
-            "Lenguazaque",
-            "Machet\u00e1",
-            "Madrid",
-            "Manta",
-            "Medina",
-            "Mosquera",
-            "Nari\u00f1o",
-            "Nemoc\u00f3n",
-            "Nilo",
-            "Nimaima",
-            "Nocaima",
-            "Pacho",
-            "Paime",
-            "Pandi",
-            "Paratebueno",
-            "Pasca",
-            "Puerto Salgar",
-            "Pul\u00ed",
-            "Quebradanegra",
-            "Quetame",
-            "Quipile",
-            "Ricaurte",
-            "San Antonio del Tequendama",
-            "San Bernardo",
-            "San Cayetano",
-            "San Francisco",
-            "San Juan de Rioseco",
-            "Sasaima",
-            "Sesquil\u00e9",
-            "Sibat\u00e9",
-            "Silvania",
-            "Simijaca",
-            "Soacha",
-            "Sop\u00f3",
-            "Subachoque",
-            "Suesca",
-            "Supat\u00e1",
-            "Susa",
-            "Sutatausa",
-            "Tabio",
-            "Tausa",
-            "Tena",
-            "Tenjo",
-            "Tibacuy",
-            "Tibirita",
-            "Tocaima",
-            "Tocancip\u00e1",
-            "Topaip\u00ed",
-            "Ubal\u00e1",
-            "Ubaque",
-            "Ubat\u00e9",
-            "Une",
-            "\u00datica",
-            "Venecia",
-            "Vergara",
-            "Vian\u00ed",
-            "Villag\u00f3mez",
-            "Villapinz\u00f3n",
-            "Villeta",
-            "Viot\u00e1",
-            "Yacop\u00ed",
-            "Zipac\u00f3n",
-            "Zipaquir\u00e1"
-        ]
-    },
-    {  
-        "id":13,
-        "departamento":"C\u00f3rdoba",
-        "ciudades":[  
-            "Ayapel",
-            "Buenavista",
-            "Canalete",
-            "Ceret\u00e9",
-            "Chim\u00e1",
-            "Chin\u00fa",
-            "Ci\u00e9naga de Oro",
-            "Cotorra",
-            "La Apartada",
-            "Lorica",
-            "Los C\u00f3rdobas",
-            "Momil",
-            "Montel\u00edbano",
-            "Monter\u00eda",
-            "Mo\u00f1itos",
-            "Planeta Rica",
-            "Pueblo Nuevo",
-            "Puerto Escondido",
-            "Puerto Libertador",
-            "Pur\u00edsima",
-            "Sahag\u00fan",
-            "San Andr\u00e9s de Sotavento",
-            "San Antero",
-            "San Bernardo del Viento",
-            "San Carlos",
-            "San Jos\u00e9 de Ur\u00e9",
-            "San Pelayo",
-            "Tierralta",
-            "Tuch\u00edn",
-            "Valencia"
-        ]
-    },
-    {  
-        "id":14,
-        "departamento":"Guain\u00eda",
-        "ciudades":[  
-            "In\u00edrida"
-        ]
-    },
-    {  
-        "id":15,
-        "departamento":"Guaviare",
-        "ciudades":[  
-            "Calamar",
-            "El Retorno",
-            "Miraflores",
-            "San Jos\u00e9 del Guaviare"
-        ]
-    },
-    {  
-        "id":16,
-        "departamento":"Huila",
-        "ciudades":[  
-            "Acevedo",
-            "Agrado",
-            "Aipe",
-            "Algeciras",
-            "Altamira",
-            "Baraya",
-            "Campoalegre",
-            "Colombia",
-            "El Pital",
-            "El\u00edas",
-            "Garz\u00f3n",
-            "Gigante",
-            "Guadalupe",
-            "Hobo",
-            "\u00cdquira",
-            "Isnos",
-            "La Argentina",
-            "La Plata",
-            "N\u00e1taga",
-            "Neiva",
-            "Oporapa",
-            "Paicol",
-            "Palermo",
-            "Palestina",
-            "Pitalito",
-            "Rivera",
-            "Saladoblanco",
-            "San Agust\u00edn",
-            "Santa Mar\u00eda",
-            "Suaza",
-            "Tarqui",
-            "Tello",
-            "Teruel",
-            "Tesalia",
-            "Timan\u00e1",
-            "Villavieja",
-            "Yaguar\u00e1"
-        ]
-    },
-    {  
-        "id":17,
-        "departamento":"La Guajira",
-        "ciudades":[  
-            "Albania",
-            "Barrancas",
-            "Dibulla",
-            "Distracci\u00f3n",
-            "El Molino",
-            "Fonseca",
-            "Hatonuevo",
-            "La Jagua del Pilar",
-            "Maicao",
-            "Manaure",
-            "Riohacha",
-            "San Juan del Cesar",
-            "Uribia",
-            "Urumita",
-            "Villanueva"
-        ]
-    },
-    {  
-        "id":18,
-        "departamento":"Magdalena",
-        "ciudades":[  
-            "Algarrobo",
-            "Aracataca",
-            "Ariguan\u00ed",
-            "Cerro de San Antonio",
-            "Chibolo",
-            "Chibolo",
-            "Ci\u00e9naga",
-            "Concordia",
-            "El Banco",
-            "El Pi\u00f1\u00f3n",
-            "El Ret\u00e9n",
-            "Fundaci\u00f3n",
-            "Guamal",
-            "Nueva Granada",
-            "Pedraza",
-            "Piji\u00f1o del Carmen",
-            "Pivijay",
-            "Plato",
-            "Pueblo Viejo",
-            "Remolino",
-            "Sabanas de San \u00c1ngel",
-            "Salamina",
-            "San Sebasti\u00e1n de Buenavista",
-            "San Zen\u00f3n",
-            "Santa Ana",
-            "Santa B\u00e1rbara de Pinto",
-            "Santa Marta",
-            "Sitionuevo",
-            "Tenerife",
-            "Zapay\u00e1n",
-            "Zona Bananera"
-        ]
-    },
-    {  
-        "id":19,
-        "departamento":"Meta",
-        "ciudades":[  
-            "Acac\u00edas",
-            "Barranca de Up\u00eda",
-            "Cabuyaro",
-            "Castilla la Nueva",
-            "Cubarral",
-            "Cumaral",
-            "El Calvario",
-            "El Castillo",
-            "El Dorado",
-            "Fuente de Oro",
-            "Granada",
-            "Guamal",
-            "La Macarena",
-            "La Uribe",
-            "Lejan\u00edas",
-            "Mapirip\u00e1n",
-            "Mesetas",
-            "Puerto Concordia",
-            "Puerto Gait\u00e1n",
-            "Puerto Lleras",
-            "Puerto L\u00f3pez",
-            "Puerto Rico",
-            "Restrepo",
-            "San Carlos de Guaroa",
-            "San Juan de Arama",
-            "San Juanito",
-            "San Mart\u00edn",
-            "Villavicencio",
-            "Vista Hermosa"
-        ]
-    },
-    {  
-        "id":20,
-        "departamento":"Nari\u00f1o",
-        "ciudades":[  
-            "Aldana",
-            "Ancuy\u00e1",
-            "Arboleda",
-            "Barbacoas",
-            "Bel\u00e9n",
-            "Buesaco",
-            "Chachag\u00fc\u00ed",
-            "Col\u00f3n",
-            "Consac\u00e1",
-            "Contadero",
-            "C\u00f3rdoba",
-            "Cuaspud",
-            "Cumbal",
-            "Cumbitara",
-            "El Charco",
-            "El Pe\u00f1ol",
-            "El Rosario",
-            "El Tabl\u00f3n",
-            "El Tambo",
-            "Francisco Pizarro",
-            "Funes",
-            "Guachucal",
-            "Guaitarilla",
-            "Gualmat\u00e1n",
-            "Iles",
-            "Imu\u00e9s",
-            "Ipiales",
-            "La Cruz",
-            "La Florida",
-            "La Llanada",
-            "La Tola",
-            "La Uni\u00f3n",
-            "Leiva",
-            "Linares",
-            "Los Andes",
-            "Mag\u00fc\u00ed Pay\u00e1n",
-            "Mallama",
-            "Mosquera",
-            "Nari\u00f1o",
-            "Olaya Herrera",
-            "Ospina",
-            "Pasto",
-            "Policarpa",
-            "Potos\u00ed",
-            "Providencia",
-            "Puerres",
-            "Pupiales",
-            "Ricaurte",
-            "Roberto Pay\u00e1n",
-            "Samaniego",
-            "San Bernardo",
-            "San Jos\u00e9 de Alb\u00e1n",
-            "San Lorenzo",
-            "San Pablo",
-            "San Pedro de Cartago",
-            "Sandon\u00e1",
-            "Santa B\u00e1rbara",
-            "Santacruz",
-            "Sapuyes",
-            "Taminango",
-            "Tangua",
-            "Tumaco",
-            "T\u00faquerres",
-            "Yacuanquer"
-        ]
-    },
-    {  
-        "id":21,
-        "departamento":"Norte de Santander",
-        "ciudades":[  
-            "\u00c1brego",
-            "Arboledas",
-            "Bochalema",
-            "Bucarasica",
-            "C\u00e1chira",
-            "C\u00e1cota",
-            "Chin\u00e1cota",
-            "Chitag\u00e1",
-            "Convenci\u00f3n",
-            "C\u00facuta",
-            "Cucutilla",
-            "Duran\u00eda",
-            "El Carmen",
-            "El Tarra",
-            "El Zulia",
-            "Gramalote",
-            "Hacar\u00ed",
-            "Herr\u00e1n",
-            "La Esperanza",
-            "La Playa de Bel\u00e9n",
-            "Labateca",
-            "Los Patios",
-            "Lourdes",
-            "Mutiscua",
-            "Oca\u00f1a",
-            "Pamplona",
-            "Pamplonita",
-            "Puerto Santander",
-            "Ragonvalia",
-            "Salazar de Las Palmas",
-            "San Calixto",
-            "San Cayetano",
-            "Santiago",
-            "Santo Domingo de Silos",
-            "Sardinata",
-            "Teorama",
-            "Tib\u00fa",
-            "Toledo",
-            "Villa Caro",
-            "Villa del Rosario"
-        ]
-    },
-    {  
-        "id":22,
-        "departamento":"Putumayo",
-        "ciudades":[  
-            "Col\u00f3n",
-            "Mocoa",
-            "Orito",
-            "Puerto As\u00eds",
-            "Puerto Caicedo",
-            "Puerto Guzm\u00e1n",
-            "Puerto Legu\u00edzamo",
-            "San Francisco",
-            "San Miguel",
-            "Santiago",
-            "Sibundoy",
-            "Valle del Guamuez",
-            "Villagarz\u00f3n"
-        ]
-    },
-    {  
-        "id":23,
-        "departamento":"Quind\u00edo",
-        "ciudades":[  
-            "Armenia",
-            "Buenavista",
-            "Calarc\u00e1",
-            "Circasia",
-            "C\u00f3rdoba",
-            "Filandia",
-            "G\u00e9nova",
-            "La Tebaida",
-            "Montenegro",
-            "Pijao",
-            "Quimbaya",
-            "Salento"
-        ]
-    },
-    {  
-        "id":24,
-        "departamento":"Risaralda",
-        "ciudades":[  
-            "Ap\u00eda",
-            "Balboa",
-            "Bel\u00e9n de Umbr\u00eda",
-            "Dosquebradas",
-            "Gu\u00e1tica",
-            "La Celia",
-            "La Virginia",
-            "Marsella",
-            "Mistrat\u00f3",
-            "Pereira",
-            "Pueblo Rico",
-            "Quinch\u00eda",
-            "Santa Rosa de Cabal",
-            "Santuario"
-        ]
-    },
-    {  
-        "id":25,
-        "departamento":"San Andr\u00e9s y Providencia",
-        "ciudades":[  
-            "Providencia y Santa Catalina Islas",
-            "San Andr\u00e9s"
-        ]
-    },
-    {  
-        "id":26,
-        "departamento":"Santander",
-        "ciudades":[  
-            "Aguada",
-            "Albania",
-            "Aratoca",
-            "Barbosa",
-            "Barichara",
-            "Barrancabermeja",
-            "Betulia",
-            "Bol\u00edvar",
-            "Bucaramanga",
-            "Cabrera",
-            "California",
-            "Capitanejo",
-            "Carcas\u00ed",
-            "Cepit\u00e1",
-            "Cerrito",
-            "Charal\u00e1",
-            "Charta",
-            "Chima",
-            "Chipat\u00e1",
-            "Cimitarra",
-            "Concepci\u00f3n",
-            "Confines",
-            "Contrataci\u00f3n",
-            "Coromoro",
-            "Curit\u00ed",
-            "El Carmen de Chucur\u00ed",
-            "El Guacamayo",
-            "El Pe\u00f1\u00f3n",
-            "El Play\u00f3n",
-            "El Socorro",
-            "Encino",
-            "Enciso",
-            "Flori\u00e1n",
-            "Floridablanca",
-            "Gal\u00e1n",
-            "G\u00e1mbita",
-            "Gir\u00f3n",
-            "Guaca",
-            "Guadalupe",
-            "Guapot\u00e1",
-            "Guavat\u00e1",
-            "G\u00fcepsa",
-            "Hato",
-            "Jes\u00fas Mar\u00eda",
-            "Jord\u00e1n",
-            "La Belleza",
-            "La Paz",
-            "Land\u00e1zuri",
-            "Lebrija",
-            "Los Santos",
-            "Macaravita",
-            "M\u00e1laga",
-            "Matanza",
-            "Mogotes",
-            "Molagavita",
-            "Ocamonte",
-            "Oiba",
-            "Onzaga",
-            "Palmar",
-            "Palmas del Socorro",
-            "P\u00e1ramo",
-            "Piedecuesta",
-            "Pinchote",
-            "Puente Nacional",
-            "Puerto Parra",
-            "Puerto Wilches",
-            "Rionegro",
-            "Sabana de Torres",
-            "San Andr\u00e9s",
-            "San Benito",
-            "San Gil",
-            "San Joaqu\u00edn",
-            "San Jos\u00e9 de Miranda",
-            "San Miguel",
-            "San Vicente de Chucur\u00ed",
-            "Santa B\u00e1rbara",
-            "Santa Helena del Op\u00f3n",
-            "Simacota",
-            "Suaita",
-            "Sucre",
-            "Surat\u00e1",
-            "Tona",
-            "Valle de San Jos\u00e9",
-            "V\u00e9lez",
-            "Vetas",
-            "Villanueva",
-            "Zapatoca"
-        ]
-    },
-    {  
-        "id":27,
-        "departamento":"Sucre",
-        "ciudades":[  
-            "Buenavista",
-            "Caimito",
-            "Chal\u00e1n",
-            "Colos\u00f3",
-            "Corozal",
-            "Cove\u00f1as",
-            "El Roble",
-            "Galeras",
-            "Guaranda",
-            "La Uni\u00f3n",
-            "Los Palmitos",
-            "Majagual",
-            "Morroa",
-            "Ovejas",
-            "Sampu\u00e9s",
-            "San Antonio de Palmito",
-            "San Benito Abad",
-            "San Juan de Betulia",
-            "San Marcos",
-            "San Onofre",
-            "San Pedro",
-            "Sinc\u00e9",
-            "Sincelejo",
-            "Sucre",
-            "Tol\u00fa",
-            "Tol\u00fa Viejo"
-        ]
-    },
-    {  
-        "id":28,
-        "departamento":"Tolima",
-        "ciudades":[  
-            "Alpujarra",
-            "Alvarado",
-            "Ambalema",
-            "Anzo\u00e1tegui",
-            "Armero",
-            "Ataco",
-            "Cajamarca",
-            "Carmen de Apical\u00e1",
-            "Casabianca",
-            "Chaparral",
-            "Coello",
-            "Coyaima",
-            "Cunday",
-            "Dolores",
-            "El Espinal",
-            "Fal\u00e1n",
-            "Flandes",
-            "Fresno",
-            "Guamo",
-            "Herveo",
-            "Honda",
-            "Ibagu\u00e9",
-            "Icononzo",
-            "L\u00e9rida",
-            "L\u00edbano",
-            "Mariquita",
-            "Melgar",
-            "Murillo",
-            "Natagaima",
-            "Ortega",
-            "Palocabildo",
-            "Piedras",
-            "Planadas",
-            "Prado",
-            "Purificaci\u00f3n",
-            "Rioblanco",
-            "Roncesvalles",
-            "Rovira",
-            "Salda\u00f1a",
-            "San Antonio",
-            "San Luis",
-            "Santa Isabel",
-            "Su\u00e1rez",
-            "Valle de San Juan",
-            "Venadillo",
-            "Villahermosa",
-            "Villarrica"
-        ]
-    },
-    {  
-        "id":29,
-        "departamento":"Valle del Cauca",
-        "ciudades":[  
-            "Alcal\u00e1",
-            "Andaluc\u00eda",
-            "Ansermanuevo",
-            "Argelia",
-            "Bol\u00edvar",
-            "Buenaventura",
-            "Buga",
-            "Bugalagrande",
-            "Caicedonia",
-            "Cali",
-            "Calima",
-            "Candelaria",
-            "Cartago",
-            "Dagua",
-            "El \u00c1guila",
-            "El Cairo",
-            "El Cerrito",
-            "El Dovio",
-            "Florida",
-            "Ginebra",
-            "Guacar\u00ed",
-            "Jamund\u00ed",
-            "La Cumbre",
-            "La Uni\u00f3n",
-            "La Victoria",
-            "Obando",
-            "Palmira",
-            "Pradera",
-            "Restrepo",
-            "Riofr\u00edo",
-            "Roldanillo",
-            "San Pedro",
-            "Sevilla",
-            "Toro",
-            "Trujillo",
-            "Tulu\u00e1",
-            "Ulloa",
-            "Versalles",
-            "Vijes",
-            "Yotoco",
-            "Yumbo",
-            "Zarzal"
-        ]
-    },
-    {  
-        "id":30,
-        "departamento":"Vaup\u00e9s",
-        "ciudades":[  
-            "Carur\u00fa",
-            "Mit\u00fa",
-            "Taraira"
-        ]
-    },
-    {  
-        "id":31,
-        "departamento":"Vichada",
-        "ciudades":[  
-            "Cumaribo",
-            "La Primavera",
-            "Puerto Carre\u00f1o",
-            "Santa Rosal\u00eda"
-        ]
-    }
+[
+   {
+      "id":0,
+      "departamento":"Amazonas",
+      "ciudades":[
+         {
+            "Leticia":"91001"
+         },
+         {
+            "Puerto Nari\u00f1o":"91540"
+         }
+      ]
+   },
+   {
+      "id":1,
+      "departamento":"Antioquia",
+      "ciudades":[
+         {
+            "Abejorral":"05002"
+         },
+         {
+            "Abriaqu\u00ed":"05004"
+         },
+         {
+            "Alejandr\u00eda":"05021"
+         },
+         {
+            "Amag\u00e1":"05030"
+         },
+         {
+            "Amalfi":"05031"
+         },
+         {
+            "Andes":"05034"
+         },
+         {
+            "Angel\u00f3polis":"05036"
+         },
+         {
+            "Angostura":"05038"
+         },
+         {
+            "Anor\u00ed":"05040"
+         },
+         {
+            "Anz\u00e1":"05044"
+         },
+         {
+            "Apartad\u00f3":"05045"
+         },
+         {
+            "Arboletes":"05051"
+         },
+         {
+            "Argelia":"05055"
+         },
+         {
+            "Armenia":"05059"
+         },
+         {
+            "Barbosa":"05079"
+         },
+         {
+            "Bello":"05088"
+         },
+         {
+            "Belmira":"05086"
+         },
+         {
+            "Betania":"05091"
+         },
+         {
+            "Betulia":"05093"
+         },
+         {
+            "Brice\u00f1o":"05107"
+         },
+         {
+            "Buritic\u00e1":"05113"
+         },
+         {
+            "C\u00e1ceres":"05120"
+         },
+         {
+            "Caicedo":"05125"
+         },
+         {
+            "Caldas":"05129"
+         },
+         {
+            "Campamento":"05134"
+         },
+         {
+            "Ca\u00f1asgordas":"05138"
+         },
+         {
+            "Caracol\u00ed":"05142"
+         },
+         {
+            "Caramanta":"05145"
+         },
+         {
+            "Carepa":"05147"
+         },
+         {
+            "Carolina del Pr\u00edncipe":"05150"
+         },
+         {
+            "Caucasia":"05154"
+         },
+         {
+            "Chigorod\u00f3":"05172"
+         },
+         {
+            "Cisneros":"05190"
+         },
+         {
+            "Ciudad Bol\u00edvar":"05101"
+         },
+         {
+            "Cocorn\u00e1":"05197"
+         },
+         {
+            "Concepci\u00f3n":"05206"
+         },
+         {
+            "Concordia":"05209"
+         },
+         {
+            "Copacabana":"05212"
+         },
+         {
+            "Dabeiba":"05234"
+         },
+         {
+            "Donmat\u00edas":"05237"
+         },
+         {
+            "Eb\u00e9jico":"05240"
+         },
+         {
+            "El Bagre":"05250"
+         },
+         {
+            "El Carmen de Viboral":"05148"
+         },
+         {
+            "El Pe\u00f1ol":"05541"
+         },
+         {
+            "El Retiro":"05607"
+         },
+         {
+            "El Santuario":"05697"
+         },
+         {
+            "Entrerr\u00edos":"05264"
+         },
+         {
+            "Envigado":"05266"
+         },
+         {
+            "Fredonia":"05282"
+         },
+         {
+            "Frontino":"05284"
+         },
+         {
+            "Giraldo":"05306"
+         },
+         {
+            "Girardota":"05308"
+         },
+         {
+            "G\u00f3mez Plata":"05310"
+         },
+         {
+            "Granada":"05313"
+         },
+         {
+            "Guadalupe":"05315"
+         },
+         {
+            "Guarne":"05318"
+         },
+         {
+            "Guatap\u00e9":"05321"
+         },
+         {
+            "Heliconia":"05347"
+         },
+         {
+            "Hispania":"05353"
+         },
+         {
+            "Itag\u00fc\u00ed":"05360"
+         },
+         {
+            "Ituango":"05361"
+         },
+         {
+            "Jard\u00edn":"05364"
+         },
+         {
+            "Jeric\u00f3":"05368"
+         },
+         {
+            "La Ceja":"05376"
+         },
+         {
+            "La Estrella":"05380"
+         },
+         {
+            "La Pintada":"05390"
+         },
+         {
+            "La Uni\u00f3n":"05400"
+         },
+         {
+            "Liborina":"05411"
+         },
+         {
+            "Maceo":"05425"
+         },
+         {
+            "Marinilla":"05440"
+         },
+         {
+            "Medell\u00edn":"05001"
+         },
+         {
+            "Montebello":"05467"
+         },
+         {
+            "Murind\u00f3":"05475"
+         },
+         {
+            "Mutat\u00e1":"05480"
+         },
+         {
+            "Nari\u00f1o":"05483"
+         },
+         {
+            "Nech\u00ed":"05495"
+         },
+         {
+            "Necocl\u00ed":"05490"
+         },
+         {
+            "Olaya":"05501"
+         },
+         {
+            "Peque":"05543"
+         },
+         {
+            "Pueblorrico":"05576"
+         },
+         {
+            "Puerto Berr\u00edo":"05579"
+         },
+         {
+            "Puerto Nare":"05585"
+         },
+         {
+            "Puerto Triunfo":"05591"
+         },
+         {
+            "Remedios":"05604"
+         },
+         {
+            "Rionegro":"05615"
+         },
+         {
+            "Sabanalarga":"05628"
+         },
+         {
+            "Sabaneta":"05631"
+         },
+         {
+            "Salgar":"05642"
+         },
+         {
+            "San Andr\u00e9s de Cuerquia":"05647"
+         },
+         {
+            "San Carlos":"05649"
+         },
+         {
+            "San Francisco":"05652"
+         },
+         {
+            "San Jer\u00f3nimo":"05656"
+         },
+         {
+            "San Jos\u00e9 de la Monta\u00f1a":"05658"
+         },
+         {
+            "San Juan de Urab\u00e1":"05659"
+         },
+         {
+            "San Luis":"05660"
+         },
+         {
+            "San Pedro de Urab\u00e1":"05665"
+         },
+         {
+            "San Pedro de los Milagros":"05664"
+         },
+         {
+            "San Rafael":"05667"
+         },
+         {
+            "San Roque":"05670"
+         },
+         {
+            "San Vicente":"05674"
+         },
+         {
+            "Santa B\u00e1rbara":"05679"
+         },
+         {
+            "Santa Fe de Antioquia":"05042"
+         },
+         {
+            "Santa Rosa de Osos":"05686"
+         },
+         {
+            "Santo Domingo":"05690"
+         },
+         {
+            "Segovia":"05736"
+         },
+         {
+            "Sons\u00f3n":"05756"
+         },
+         {
+            "Sopetr\u00e1n":"05761"
+         },
+         {
+            "T\u00e1mesis":"05789"
+         },
+         {
+            "Taraz\u00e1":"05790"
+         },
+         {
+            "Tarso":"05792"
+         },
+         {
+            "Titirib\u00ed":"05809"
+         },
+         {
+            "Toledo":"05819"
+         },
+         {
+            "Turbo":"05837"
+         },
+         {
+            "Uramita":"05842"
+         },
+         {
+            "Urrao":"05847"
+         },
+         {
+            "Valdivia":"05854"
+         },
+         {
+            "Valpara\u00edso":"05856"
+         },
+         {
+            "Vegach\u00ed":"05858"
+         },
+         {
+            "Venecia":"05861"
+         },
+         {
+            "Vig\u00eda del Fuerte":"05873"
+         },
+         {
+            "Yal\u00ed":"05885"
+         },
+         {
+            "Yarumal":"05887"
+         },
+         {
+            "Yolomb\u00f3":"05890"
+         },
+         {
+            "Yond\u00f3":"05893"
+         },
+         {
+            "Zaragoza":"05895"
+         }
+      ]
+   },
+   {
+      "id":2,
+      "departamento":"Arauca",
+      "ciudades":[
+         {
+            "Arauca":"81001"
+         },
+         {
+            "Arauquita":"81065"
+         },
+         {
+            "Cravo Norte":"81220"
+         },
+         {
+            "Fortul":"81300"
+         },
+         {
+            "Puerto Rond\u00f3n":"81591"
+         },
+         {
+            "Saravena":"81736"
+         },
+         {
+            "Tame":"81794"
+         }
+      ]
+   },
+   {
+      "id":3,
+      "departamento":"Atl\u00e1ntico",
+      "ciudades":[
+         {
+            "Baranoa":"08078"
+         },
+         {
+            "Barranquilla":"08001"
+         },
+         {
+            "Campo de la Cruz":"08137"
+         },
+         {
+            "Candelaria":"08141"
+         },
+         {
+            "Galapa":"08296"
+         },
+         {
+            "Juan de Acosta":"08372"
+         },
+         {
+            "Luruaco":"08421"
+         },
+         {
+            "Malambo":"08433"
+         },
+         {
+            "Manat\u00ed":"08436"
+         },
+         {
+            "Palmar de Varela":"08520"
+         },
+         {
+            "Pioj\u00f3":"08549"
+         },
+         {
+            "Polonuevo":"08558"
+         },
+         {
+            "Ponedera":"08560"
+         },
+         {
+            "Puerto Colombia":"08573"
+         },
+         {
+            "Repel\u00f3n":"08606"
+         },
+         {
+            "Sabanagrande":"08634"
+         },
+         {
+            "Sabanalarga":"05628"
+         },
+         {
+            "Santa Luc\u00eda":"08675"
+         },
+         {
+            "Santo Tom\u00e1s":"08685"
+         },
+         {
+            "Soledad":"08758"
+         },
+         {
+            "Su\u00e1n":"08770"
+         },
+         {
+            "Tubar\u00e1":"08832"
+         },
+         {
+            "Usiacur\u00ed":"08849"
+         }
+      ]
+   },
+   {
+      "id":4,
+      "departamento":"Bol\u00edvar",
+      "ciudades":[
+         {
+            "Ach\u00ed":"13006"
+         },
+         {
+            "Altos del Rosario":"13030"
+         },
+         {
+            "Arenal":"13042"
+         },
+         {
+            "Arjona":"13052"
+         },
+         {
+            "Arroyohondo":"13062"
+         },
+         {
+            "Barranco de Loba":"13074"
+         },
+         {
+            "Brazuelo de Papayal":"13999"
+         },
+         {
+            "Calamar":"13140"
+         },
+         {
+            "Cantagallo":"13160"
+         },
+         {
+            "Cartagena de Indias":"13001"
+         },
+         {
+            "Cicuco":"13188"
+         },
+         {
+            "Clemencia":"13222"
+         },
+         {
+            "C\u00f3rdoba":"13212"
+         },
+         {
+            "El Carmen de Bol\u00edvar":"13244"
+         },
+         {
+            "El Guamo":"13248"
+         },
+         {
+            "El Pe\u00f1\u00f3n":"13268"
+         },
+         {
+            "Hatillo de Loba":"13300"
+         },
+         {
+            "Magangu\u00e9":"13430"
+         },
+         {
+            "Mahates":"13433"
+         },
+         {
+            "Margarita":"13440"
+         },
+         {
+            "Mar\u00eda la Baja":"13442"
+         },
+         {
+            "Momp\u00f3s":"13468"
+         },
+         {
+            "Montecristo":"13458"
+         },
+         {
+            "Morales":"13473"
+         },
+         {
+            "Noros\u00ed":"13490"
+         },
+         {
+            "Pinillos":"13549"
+         },
+         {
+            "Regidor":"13580"
+         },
+         {
+            "R\u00edo Viejo":"13600"
+         },
+         {
+            "San Crist\u00f3bal":"13620"
+         },
+         {
+            "San Estanislao":"13647"
+         },
+         {
+            "San Fernando":"13650"
+         },
+         {
+            "San Jacinto del Cauca":"13655"
+         },
+         {
+            "San Jacinto":"13654"
+         },
+         {
+            "San Juan Nepomuceno":"13657"
+         },
+         {
+            "San Mart\u00edn de Loba":"13667"
+         },
+         {
+            "San Pablo":"13670"
+         },
+         {
+            "Santa Catalina":"13673"
+         },
+         {
+            "Santa Rosa":"13683"
+         },
+         {
+            "Santa Rosa del Sur":"13688"
+         },
+         {
+            "Simit\u00ed":"13744"
+         },
+         {
+            "Soplaviento":"13760"
+         },
+         {
+            "Talaigua Nuevo":"13780"
+         },
+         {
+            "Tiquisio":"13810"
+         },
+         {
+            "Turbaco":"13836"
+         },
+         {
+            "Turban\u00e1":"13838"
+         },
+         {
+            "Villanueva":"13873"
+         },
+         {
+            "Zambrano":"13894"
+         }
+      ]
+   },
+   {
+      "id":5,
+      "departamento":"Boyac\u00e1",
+      "ciudades":[
+         {
+            "Almeida":"15022"
+         },
+         {
+            "Aquitania":"15047"
+         },
+         {
+            "Arcabuco":"15051"
+         },
+         {
+            "Bel\u00e9n":"15087"
+         },
+         {
+            "Berbeo":"15090"
+         },
+         {
+            "Bet\u00e9itiva":"15092"
+         },
+         {
+            "Boavita":"15097"
+         },
+         {
+            "Boyac\u00e1":"15104"
+         },
+         {
+            "Brice\u00f1o":"15106"
+         },
+         {
+            "Buenavista":"15109"
+         },
+         {
+            "Busbanz\u00e1":"15114"
+         },
+         {
+            "Caldas":"15131"
+         },
+         {
+            "Campohermoso":"15135"
+         },
+         {
+            "Cerinza":"15162"
+         },
+         {
+            "Chinavita":"15172"
+         },
+         {
+            "Chiquinquir\u00e1":"15176"
+         },
+         {
+            "Ch\u00edquiza":"15232"
+         },
+         {
+            "Chiscas":"15180"
+         },
+         {
+            "Chita":"15183"
+         },
+         {
+            "Chitaraque":"15185"
+         },
+         {
+            "Chivat\u00e1":"15187"
+         },
+         {
+            "Chivor":"15236"
+         },
+         {
+            "Ci\u00e9nega":"15189"
+         },
+         {
+            "C\u00f3mbita":"15204"
+         },
+         {
+            "Coper":"15212"
+         },
+         {
+            "Corrales":"15215"
+         },
+         {
+            "Covarach\u00eda":"15218"
+         },
+         {
+            "Cubar\u00e1":"15223"
+         },
+         {
+            "Cucaita":"15224"
+         },
+         {
+            "Cu\u00edtiva":"15226"
+         },
+         {
+            "Duitama":"15238"
+         },
+         {
+            "El Cocuy":"15244"
+         },
+         {
+            "El Espino":"15248"
+         },
+         {
+            "Firavitoba":"15272"
+         },
+         {
+            "Floresta":"15276"
+         },
+         {
+            "Gachantiv\u00e1":"15293"
+         },
+         {
+            "G\u00e1meza":"15296"
+         },
+         {
+            "Garagoa":"15299"
+         },
+         {
+            "Guacamayas":"15317"
+         },
+         {
+            "Guateque":"15322"
+         },
+         {
+            "Guayat\u00e1":"15325"
+         },
+         {
+            "G\u00fcic\u00e1n":"15332"
+         },
+         {
+            "Iza":"15362"
+         },
+         {
+            "Jenesano":"15367"
+         },
+         {
+            "Jeric\u00f3":"15368"
+         },
+         {
+            "La Capilla":"15380"
+         },
+         {
+            "La Uvita":"15403"
+         },
+         {
+            "La Victoria":"15401"
+         },
+         {
+            "Labranzagrande":"15377"
+         },
+         {
+            "Macanal":"15425"
+         },
+         {
+            "Marip\u00ed":"15442"
+         },
+         {
+            "Miraflores":"15455"
+         },
+         {
+            "Mongua":"15464"
+         },
+         {
+            "Mongu\u00ed":"15466"
+         },
+         {
+            "Moniquir\u00e1":"15469"
+         },
+         {
+            "Motavita":"15476"
+         },
+         {
+            "Muzo":"15480"
+         },
+         {
+            "Nobsa":"15491"
+         },
+         {
+            "Nuevo Col\u00f3n":"15494"
+         },
+         {
+            "Oicat\u00e1":"15500"
+         },
+         {
+            "Otanche":"15507"
+         },
+         {
+            "Pachavita":"15511"
+         },
+         {
+            "P\u00e1ez":"15514"
+         },
+         {
+            "Paipa":"15516"
+         },
+         {
+            "Pajarito":"15518"
+         },
+         {
+            "Panqueba":"15522"
+         },
+         {
+            "Pauna":"15531"
+         },
+         {
+            "Paya":"15533"
+         },
+         {
+            "Paz del R\u00edo":"15537"
+         },
+         {
+            "Pesca":"15542"
+         },
+         {
+            "Pisba":"15550"
+         },
+         {
+            "Puerto Boyac\u00e1":"15572"
+         },
+         {
+            "Qu\u00edpama":"15580"
+         },
+         {
+            "Ramiriqu\u00ed":"15599"
+         },
+         {
+            "R\u00e1quira":"15600"
+         },
+         {
+            "Rond\u00f3n":"15621"
+         },
+         {
+            "Saboy\u00e1":"15632"
+         },
+         {
+            "S\u00e1chica":"15638"
+         },
+         {
+            "Samac\u00e1":"15646"
+         },
+         {
+            "San Eduardo":"15660"
+         },
+         {
+            "San Jos\u00e9 de Pare":"15664"
+         },
+         {
+            "San Luis de Gaceno":"15667"
+         },
+         {
+            "San Mateo":"15673"
+         },
+         {
+            "San Miguel de Sema":"15676"
+         },
+         {
+            "San Pablo de Borbur":"15681"
+         },
+         {
+            "Santa Mar\u00eda":"15690"
+         },
+         {
+            "Santa Rosa de Viterbo":"15693"
+         },
+         {
+            "Santa Sof\u00eda":"15696"
+         },
+         {
+            "Santana":"15686"
+         },
+         {
+            "Sativanorte":"15720"
+         },
+         {
+            "Sativasur":"15723"
+         },
+         {
+            "Siachoque":"15740"
+         },
+         {
+            "Soat\u00e1":"15753"
+         },
+         {
+            "Socha":"15757"
+         },
+         {
+            "Socot\u00e1":"15755"
+         },
+         {
+            "Sogamoso":"15759"
+         },
+         {
+            "Somondoco":"15761"
+         },
+         {
+            "Sora":"15762"
+         },
+         {
+            "Sorac\u00e1":"15764"
+         },
+         {
+            "Sotaquir\u00e1":"15763"
+         },
+         {
+            "Susac\u00f3n":"15774"
+         },
+         {
+            "Sutamarch\u00e1n":"15776"
+         },
+         {
+            "Sutatenza":"15778"
+         },
+         {
+            "Tasco":"15790"
+         },
+         {
+            "Tenza":"15798"
+         },
+         {
+            "Tiban\u00e1":"15804"
+         },
+         {
+            "Tibasosa":"15806"
+         },
+         {
+            "Tinjac\u00e1":"15808"
+         },
+         {
+            "Tipacoque":"15810"
+         },
+         {
+            "Toca":"15814"
+         },
+         {
+            "Tog\u00fc\u00ed":"15816"
+         },
+         {
+            "T\u00f3paga":"15820"
+         },
+         {
+            "Tota":"15822"
+         },
+         {
+            "Tunja":"15001"
+         },
+         {
+            "Tunungu\u00e1":"15832"
+         },
+         {
+            "Turmequ\u00e9":"15835"
+         },
+         {
+            "Tuta":"15837"
+         },
+         {
+            "Tutaz\u00e1":"15839"
+         },
+         {
+            "\u00dambita":"15842"
+         },
+         {
+            "Ventaquemada":"15861"
+         },
+         {
+            "Villa de Leyva":"15407"
+         },
+         {
+            "Viracach\u00e1":"15879"
+         },
+         {
+            "Zetaquira":"15897"
+         }
+      ]
+   },
+   {
+      "id":6,
+      "departamento":"Caldas",
+      "ciudades":[
+         {
+            "Aguadas":"17013"
+         },
+         {
+            "Anserma":"17042"
+         },
+         {
+            "Aranzazu":"17050"
+         },
+         {
+            "Belalc\u00e1zar":"17088"
+         },
+         {
+            "Chinchin\u00e1":"17174"
+         },
+         {
+            "Filadelfia":"17272"
+         },
+         {
+            "La Dorada":"17380"
+         },
+         {
+            "La Merced":"17388"
+         },
+         {
+            "Manizales":"17001"
+         },
+         {
+            "Manzanares":"17433"
+         },
+         {
+            "Marmato":"17442"
+         },
+         {
+            "Marquetalia":"17444"
+         },
+         {
+            "Marulanda":"17446"
+         },
+         {
+            "Neira":"17486"
+         },
+         {
+            "Norcasia":"17495"
+         },
+         {
+            "P\u00e1cora":"17513"
+         },
+         {
+            "Palestina":"17524"
+         },
+         {
+            "Pensilvania":"17541"
+         },
+         {
+            "Riosucio":"17614"
+         },
+         {
+            "Risaralda":"17616"
+         },
+         {
+            "Salamina":"17653"
+         },
+         {
+            "Saman\u00e1":"17662"
+         },
+         {
+            "San Jos\u00e9":"17665"
+         },
+         {
+            "Sup\u00eda":"17777"
+         },
+         {
+            "Victoria":"17867"
+         },
+         {
+            "Villamar\u00eda":"17873"
+         },
+         {
+            "Viterbo":"17877"
+         }
+      ]
+   },
+   {
+      "id":7,
+      "departamento":"Caquet\u00e1",
+      "ciudades":[
+         {
+            "Albania":"18029"
+         },
+         {
+            "Bel\u00e9n de los Andaqu\u00edes":"18094"
+         },
+         {
+            "Cartagena del Chair\u00e1":"18150"
+         },
+         {
+            "Curillo":"18205"
+         },
+         {
+            "El Doncello":"18247"
+         },
+         {
+            "El Paujil":"18256"
+         },
+         {
+            "Florencia":"18001"
+         },
+         {
+            "La Monta\u00f1ita":"18410"
+         },
+         {
+            "Mil\u00e1n":"18460"
+         },
+         {
+            "Morelia":"18479"
+         },
+         {
+            "Puerto Rico":"18592"
+         },
+         {
+            "San Jos\u00e9 del Fragua":"18610"
+         },
+         {
+            "San Vicente del Cagu\u00e1n":"18753"
+         },
+         {
+            "Solano":"18756"
+         },
+         {
+            "Solita":"18785"
+         },
+         {
+            "Valpara\u00edso":"18860"
+         }
+      ]
+   },
+   {
+      "id":8,
+      "departamento":"Casanare",
+      "ciudades":[
+         {
+            "Aguazul":"85010"
+         },
+         {
+            "Ch\u00e1meza":"85015"
+         },
+         {
+            "Hato Corozal":"85125"
+         },
+         {
+            "La Salina":"85136"
+         },
+         {
+            "Man\u00ed":"85139"
+         },
+         {
+            "Monterrey":"85162"
+         },
+         {
+            "Nunch\u00eda":"85225"
+         },
+         {
+            "Orocu\u00e9":"85230"
+         },
+         {
+            "Paz de Ariporo":"85250"
+         },
+         {
+            "Pore":"85263"
+         },
+         {
+            "Recetor":"85279"
+         },
+         {
+            "Sabanalarga":"85300"
+         },
+         {
+            "S\u00e1cama":"85315"
+         },
+         {
+            "San Luis de Palenque":"85325"
+         },
+         {
+            "T\u00e1mara":"85400"
+         },
+         {
+            "Tauramena":"85410"
+         },
+         {
+            "Trinidad":"85430"
+         },
+         {
+            "Villanueva":"85440"
+         },
+         {
+            "Yopal":"85001"
+         }
+      ]
+   },
+   {
+      "id":9,
+      "departamento":"Cauca",
+      "ciudades":[
+         {
+            "Almaguer":"19022"
+         },
+         {
+            "Argelia":"19050"
+         },
+         {
+            "Balboa":"19075"
+         },
+         {
+            "Bol\u00edvar":"19100"
+         },
+         {
+            "Buenos Aires":"19110"
+         },
+         {
+            "Cajib\u00edo":"19130"
+         },
+         {
+            "Caldono":"19137"
+         },
+         {
+            "Caloto":"19142"
+         },
+         {
+            "Corinto":"19212"
+         },
+         {
+            "El Tambo":"19256"
+         },
+         {
+            "Florencia":"18001"
+         },
+         {
+            "Guachen\u00e9":"19300"
+         },
+         {
+            "Guap\u00ed":"19318"
+         },
+         {
+            "Inz\u00e1":"19355"
+         },
+         {
+            "Jambal\u00f3":"19364"
+         },
+         {
+            "La Sierra":"19392"
+         },
+         {
+            "La Vega":"19397"
+         },
+         {
+            "L\u00f3pez de Micay":"19418"
+         },
+         {
+            "Mercaderes":"19450"
+         },
+         {
+            "Miranda":"19455"
+         },
+         {
+            "Morales":"13473"
+         },
+         {
+            "Padilla":"19513"
+         },
+         {
+            "P\u00e1ez":"15514"
+         },
+         {
+            "Pat\u00eda":"19532"
+         },
+         {
+            "Piamonte":"19533"
+         },
+         {
+            "Piendam\u00f3":"19548"
+         },
+         {
+            "Popay\u00e1n":"19001"
+         },
+         {
+            "Puerto Tejada":"19573"
+         },
+         {
+            "Purac\u00e9":"19585"
+         },
+         {
+            "Rosas":"19622"
+         },
+         {
+            "San Sebasti\u00e1n":"19693"
+         },
+         {
+            "Santa Rosa":"13683"
+         },
+         {
+            "Santander de Quilichao":"19698"
+         },
+         {
+            "Silvia":"19743"
+         },
+         {
+            "Sotar\u00e1":"19760"
+         },
+         {
+            "Su\u00e1rez":"19780"
+         },
+         {
+            "Sucre":"19785"
+         },
+         {
+            "Timb\u00edo":"19807"
+         },
+         {
+            "Timbiqu\u00ed":"19809"
+         },
+         {
+            "Torib\u00edo":"19821"
+         },
+         {
+            "Totor\u00f3":"19824"
+         },
+         {
+            "Villa Rica":"19845"
+         }
+      ]
+   },
+   {
+      "id":10,
+      "departamento":"Cesar",
+      "ciudades":[
+         {
+            "Aguachica":"20011"
+         },
+         {
+            "Agust\u00edn Codazzi":"20013"
+         },
+         {
+            "Astrea":"20032"
+         },
+         {
+            "Becerril":"20045"
+         },
+         {
+            "Bosconia":"20060"
+         },
+         {
+            "Chimichagua":"20175"
+         },
+         {
+            "Chiriguan\u00e1":"20178"
+         },
+         {
+            "Curuman\u00ed":"20228"
+         },
+         {
+            "El Copey":"20238"
+         },
+         {
+            "El Paso":"20250"
+         },
+         {
+            "Gamarra":"20295"
+         },
+         {
+            "Gonz\u00e1lez":"20310"
+         },
+         {
+            "La Gloria (Cesar)":"20383"
+         },
+         {
+            "La Jagua de Ibirico":"20400"
+         },
+         {
+            "La Paz":"20621"
+         },
+         {
+            "Manaure Balc\u00f3n del Cesar":"20443"
+         },
+         {
+            "Pailitas":"20517"
+         },
+         {
+            "Pelaya":"20550"
+         },
+         {
+            "Pueblo Bello":"20570"
+         },
+         {
+            "R\u00edo de Oro":"20614"
+         },
+         {
+            "San Alberto":"20710"
+         },
+         {
+            "San Diego":"20750"
+         },
+         {
+            "San Mart\u00edn":"20770"
+         },
+         {
+            "Tamalameque":"20787"
+         },
+         {
+            "Valledupar":"20001"
+         }
+      ]
+   },
+   {
+      "id":11,
+      "departamento":"Choc\u00f3",
+      "ciudades":[
+         {
+            "Acand\u00ed":"27006"
+         },
+         {
+            "Alto Baud\u00f3":"27025"
+         },
+         {
+            "Bagad\u00f3":"27073"
+         },
+         {
+            "Bah\u00eda Solano":"27075"
+         },
+         {
+            "Bajo Baud\u00f3":"27077"
+         },
+         {
+            "Bojay\u00e1":"27099"
+         },
+         {
+            "Cant\u00f3n de San Pablo":"27135"
+         },
+         {
+            "C\u00e9rtegui":"27160"
+         },
+         {
+            "Condoto":"27205"
+         },
+         {
+            "El Atrato":"27050"
+         },
+         {
+            "El Carmen de Atrato":"27245"
+         },
+         {
+            "El Carmen del Dari\u00e9n":"27150"
+         },
+         {
+            "Istmina":"27361"
+         },
+         {
+            "Jurad\u00f3":"27372"
+         },
+         {
+            "Litoral de San Juan":"27250"
+         },
+         {
+            "Llor\u00f3":"27413"
+         },
+         {
+            "Medio Atrato":"27425"
+         },
+         {
+            "Medio Baud\u00f3":"27430"
+         },
+         {
+            "Medio San Juan":"27450"
+         },
+         {
+            "N\u00f3vita":"27491"
+         },
+         {
+            "Nuqu\u00ed":"27495"
+         },
+         {
+            "Quibd\u00f3":"27001"
+         },
+         {
+            "R\u00edo Ir\u00f3":"27580"
+         },
+         {
+            "R\u00edo Quito":"27600"
+         },
+         {
+            "Riosucio":"17614"
+         },
+         {
+            "San Jos\u00e9 del Palmar":"27660"
+         },
+         {
+            "Sip\u00ed":"27745"
+         },
+         {
+            "Tad\u00f3":"27787"
+         },
+         {
+            "Uni\u00f3n Panamericana":"27810"
+         },
+         {
+            "Ungu\u00eda":"27800"
+         }
+      ]
+   },
+   {
+      "id":12,
+      "departamento":"Cundinamarca",
+      "ciudades":[
+         {
+            "Agua de Dios":"25001"
+         },
+         {
+            "Alb\u00e1n":"25019"
+         },
+         {
+            "Anapoima":"25035"
+         },
+         {
+            "Anolaima":"25040"
+         },
+         {
+            "Apulo":"25599"
+         },
+         {
+            "Arbel\u00e1ez":"25053"
+         },
+         {
+            "Beltr\u00e1n":"25086"
+         },
+         {
+            "Bituima":"25095"
+         },
+         {
+            "Bogot\u00e1":"11001"
+         },
+         {
+            "Bojac\u00e1":"25099"
+         },
+         {
+            "Cabrera":"25120"
+         },
+         {
+            "Cachipay":"25123"
+         },
+         {
+            "Cajic\u00e1":"25126"
+         },
+         {
+            "Caparrap\u00ed":"25148"
+         },
+         {
+            "C\u00e1queza":"25151"
+         },
+         {
+            "Carmen de Carupa":"25154"
+         },
+         {
+            "Chaguan\u00ed":"25168"
+         },
+         {
+            "Ch\u00eda":"25175"
+         },
+         {
+            "Chipaque":"25178"
+         },
+         {
+            "Choach\u00ed":"25181"
+         },
+         {
+            "Chocont\u00e1":"25183"
+         },
+         {
+            "Cogua":"25200"
+         },
+         {
+            "Cota":"25214"
+         },
+         {
+            "Cucunub\u00e1":"25224"
+         },
+         {
+            "El Colegio":"25245"
+         },
+         {
+            "El Pe\u00f1\u00f3n":"25258"
+         },
+         {
+            "El Rosal":"25260"
+         },
+         {
+            "Facatativ\u00e1":"25269"
+         },
+         {
+            "F\u00f3meque":"25279"
+         },
+         {
+            "Fosca":"25281"
+         },
+         {
+            "Funza":"25286"
+         },
+         {
+            "F\u00faquene":"25288"
+         },
+         {
+            "Fusagasug\u00e1":"25290"
+         },
+         {
+            "Gachal\u00e1":"25293"
+         },
+         {
+            "Gachancip\u00e1":"25295"
+         },
+         {
+            "Gachet\u00e1":"25297"
+         },
+         {
+            "Gama":"25299"
+         },
+         {
+            "Girardot":"25307"
+         },
+         {
+            "Granada":"25312"
+         },
+         {
+            "Guachet\u00e1":"25317"
+         },
+         {
+            "Guaduas":"25320"
+         },
+         {
+            "Guasca":"25322"
+         },
+         {
+            "Guataqu\u00ed":"25324"
+         },
+         {
+            "Guatavita":"25326"
+         },
+         {
+            "Guayabal de S\u00edquima":"25328"
+         },
+         {
+            "Guayabetal":"25335"
+         },
+         {
+            "Guti\u00e9rrez":"25339"
+         },
+         {
+            "Jerusal\u00e9n":"25368"
+         },
+         {
+            "Jun\u00edn":"25372"
+         },
+         {
+            "La Calera":"25377"
+         },
+         {
+            "La Mesa":"25386"
+         },
+         {
+            "La Palma":"25394"
+         },
+         {
+            "La Pe\u00f1a":"25398"
+         },
+         {
+            "La Vega":"25402"
+         },
+         {
+            "Lenguazaque":"25407"
+         },
+         {
+            "Machet\u00e1":"25426"
+         },
+         {
+            "Madrid":"25430"
+         },
+         {
+            "Manta":"25436"
+         },
+         {
+            "Medina":"25438"
+         },
+         {
+            "Mosquera":"25473"
+         },
+         {
+            "Nari\u00f1o":"25483"
+         },
+         {
+            "Nemoc\u00f3n":"25486"
+         },
+         {
+            "Nilo":"25488"
+         },
+         {
+            "Nimaima":"25489"
+         },
+         {
+            "Nocaima":"25491"
+         },
+         {
+            "Pacho":"25513"
+         },
+         {
+            "Paime":"25518"
+         },
+         {
+            "Pandi":"25524"
+         },
+         {
+            "Paratebueno":"25530"
+         },
+         {
+            "Pasca":"25535"
+         },
+         {
+            "Puerto Salgar":"25572"
+         },
+         {
+            "Pul\u00ed":"25580"
+         },
+         {
+            "Quebradanegra":"25592"
+         },
+         {
+            "Quetame":"25594"
+         },
+         {
+            "Quipile":"25596"
+         },
+         {
+            "Ricaurte":"25612"
+         },
+         {
+            "San Antonio del Tequendama":"25645"
+         },
+         {
+            "San Bernardo":"25649"
+         },
+         {
+            "San Cayetano":"25653"
+         },
+         {
+            "San Francisco":"25658"
+         },
+         {
+            "San Juan de Rioseco":"25662"
+         },
+         {
+            "Sasaima":"25718"
+         },
+         {
+            "Sesquil\u00e9":"25736"
+         },
+         {
+            "Sibat\u00e9":"25740"
+         },
+         {
+            "Silvania":"25743"
+         },
+         {
+            "Simijaca":"25745"
+         },
+         {
+            "Soacha":"25754"
+         },
+         {
+            "Sop\u00f3":"25758"
+         },
+         {
+            "Subachoque":"25769"
+         },
+         {
+            "Suesca":"25772"
+         },
+         {
+            "Supat\u00e1":"25777"
+         },
+         {
+            "Susa":"25779"
+         },
+         {
+            "Sutatausa":"25781"
+         },
+         {
+            "Tabio":"25785"
+         },
+         {
+            "Tausa":"25793"
+         },
+         {
+            "Tena":"25797"
+         },
+         {
+            "Tenjo":"25799"
+         },
+         {
+            "Tibacuy":"25805"
+         },
+         {
+            "Tibirita":"25807"
+         },
+         {
+            "Tocaima":"25815"
+         },
+         {
+            "Tocancip\u00e1":"25817"
+         },
+         {
+            "Topaip\u00ed":"25823"
+         },
+         {
+            "Ubal\u00e1":"25839"
+         },
+         {
+            "Ubaque":"25841"
+         },
+         {
+            "Ubat\u00e9":"25843"
+         },
+         {
+            "Une":"25845"
+         },
+         {
+            "\u00datica":"25851"
+         },
+         {
+            "Venecia":"25506"
+         },
+         {
+            "Vergara":"25862"
+         },
+         {
+            "Vian\u00ed":"25867"
+         },
+         {
+            "Villag\u00f3mez":"25871"
+         },
+         {
+            "Villapinz\u00f3n":"25873"
+         },
+         {
+            "Villeta":"25875"
+         },
+         {
+            "Viot\u00e1":"25878"
+         },
+         {
+            "Yacop\u00ed":"25885"
+         },
+         {
+            "Zipac\u00f3n":"25898"
+         },
+         {
+            "Zipaquir\u00e1":"25899"
+         }
+      ]
+   },
+   {
+      "id":13,
+      "departamento":"C\u00f3rdoba",
+      "ciudades":[
+         {
+            "Ayapel":"23068"
+         },
+         {
+            "Buenavista":"23079"
+         },
+         {
+            "Canalete":"23090"
+         },
+         {
+            "Ceret\u00e9":"23162"
+         },
+         {
+            "Chim\u00e1":"23168"
+         },
+         {
+            "Chin\u00fa":"23182"
+         },
+         {
+            "Ci\u00e9naga de Oro":"23189"
+         },
+         {
+            "Cotorra":"23300"
+         },
+         {
+            "La Apartada":"23350"
+         },
+         {
+            "Lorica":"23417"
+         },
+         {
+            "Los C\u00f3rdobas":"23419"
+         },
+         {
+            "Momil":"23464"
+         },
+         {
+            "Montel\u00edbano":"23466"
+         },
+         {
+            "Monter\u00eda":"23001"
+         },
+         {
+            "Mo\u00f1itos":"23500"
+         },
+         {
+            "Planeta Rica":"23555"
+         },
+         {
+            "Pueblo Nuevo":"23570"
+         },
+         {
+            "Puerto Escondido":"23574"
+         },
+         {
+            "Puerto Libertador":"23580"
+         },
+         {
+            "Pur\u00edsima":"23586"
+         },
+         {
+            "Sahag\u00fan":"23660"
+         },
+         {
+            "San Andr\u00e9s de Sotavento":"23670"
+         },
+         {
+            "San Antero":"23672"
+         },
+         {
+            "San Bernardo del Viento":"23675"
+         },
+         {
+            "San Carlos":"23678"
+         },
+         {
+            "San Jos\u00e9 de Ur\u00e9":"23682"
+         },
+         {
+            "San Pelayo":"23686"
+         },
+         {
+            "Tierralta":"23807"
+         },
+         {
+            "Tuch\u00edn":"23815"
+         },
+         {
+            "Valencia":"23855"
+         }
+      ]
+   },
+   {
+      "id":14,
+      "departamento":"Guain\u00eda",
+      "ciudades":[
+         {
+            "In\u00edrida":"94001"
+         }
+      ]
+   },
+   {
+      "id":15,
+      "departamento":"Guaviare",
+      "ciudades":[
+         {
+            "Calamar":"95015"
+         },
+         {
+            "El Retorno":"95025"
+         },
+         {
+            "Miraflores":"95200"
+         },
+         {
+            "San Jos\u00e9 del Guaviare":"95001"
+         }
+      ]
+   },
+   {
+      "id":16,
+      "departamento":"Huila",
+      "ciudades":[
+         {
+            "Acevedo":"41006"
+         },
+         {
+            "Agrado":"41013"
+         },
+         {
+            "Aipe":"41016"
+         },
+         {
+            "Algeciras":"41020"
+         },
+         {
+            "Altamira":"41026"
+         },
+         {
+            "Baraya":"41078"
+         },
+         {
+            "Campoalegre":"41132"
+         },
+         {
+            "Colombia":"41206"
+         },
+         {
+            "El Pital":"41548"
+         },
+         {
+            "El\u00edas":"41244"
+         },
+         {
+            "Garz\u00f3n":"41298"
+         },
+         {
+            "Gigante":"41306"
+         },
+         {
+            "Guadalupe":"41319"
+         },
+         {
+            "Hobo":"41349"
+         },
+         {
+            "\u00cdquira":"41357"
+         },
+         {
+            "Isnos":"41359"
+         },
+         {
+            "La Argentina":"41378"
+         },
+         {
+            "La Plata":"41396"
+         },
+         {
+            "N\u00e1taga":"41483"
+         },
+         {
+            "Neiva":"41001"
+         },
+         {
+            "Oporapa":"41503"
+         },
+         {
+            "Paicol":"41518"
+         },
+         {
+            "Palermo":"41524"
+         },
+         {
+            "Palestina":"41530"
+         },
+         {
+            "Pitalito":"41551"
+         },
+         {
+            "Rivera":"41615"
+         },
+         {
+            "Saladoblanco":"41660"
+         },
+         {
+            "San Agust\u00edn":"41668"
+         },
+         {
+            "Santa Mar\u00eda":"41676"
+         },
+         {
+            "Suaza":"41770"
+         },
+         {
+            "Tarqui":"41791"
+         },
+         {
+            "Tello":"41799"
+         },
+         {
+            "Teruel":"41801"
+         },
+         {
+            "Tesalia":"41797"
+         },
+         {
+            "Timan\u00e1":"41807"
+         },
+         {
+            "Villavieja":"41872"
+         },
+         {
+            "Yaguar\u00e1":"41885"
+         }
+      ]
+   },
+   {
+      "id":17,
+      "departamento":"La Guajira",
+      "ciudades":[
+         {
+            "Albania":"44035"
+         },
+         {
+            "Barrancas":"44078"
+         },
+         {
+            "Dibulla":"44090"
+         },
+         {
+            "Distracci\u00f3n":"44098"
+         },
+         {
+            "El Molino":"44110"
+         },
+         {
+            "Fonseca":"44279"
+         },
+         {
+            "Hatonuevo":"44378"
+         },
+         {
+            "La Jagua del Pilar":"44420"
+         },
+         {
+            "Maicao":"44430"
+         },
+         {
+            "Manaure":"20443"
+         },
+         {
+            "Riohacha":"44001"
+         },
+         {
+            "San Juan del Cesar":"44650"
+         },
+         {
+            "Uribia":"44847"
+         },
+         {
+            "Urumita":"44855"
+         },
+         {
+            "Villanueva":"44874"
+         }
+      ]
+   },
+   {
+      "id":18,
+      "departamento":"Magdalena",
+      "ciudades":[
+         {
+            "Algarrobo":"47030"
+         },
+         {
+            "Aracataca":"47053"
+         },
+         {
+            "Ariguan\u00ed":"47058"
+         },
+         {
+            "Cerro de San Antonio":"47161"
+         },
+         {
+            "Chibolo":"47170"
+         },
+         {
+            "Ci\u00e9naga":"47189"
+         },
+         {
+            "Concordia":"47205"
+         },
+         {
+            "El Banco":"47245"
+         },
+         {
+            "El Pi\u00f1\u00f3n":"47258"
+         },
+         {
+            "El Ret\u00e9n":"47268"
+         },
+         {
+            "Fundaci\u00f3n":"47288"
+         },
+         {
+            "Guamal":"47318"
+         },
+         {
+            "Nueva Granada":"47460"
+         },
+         {
+            "Pedraza":"47541"
+         },
+         {
+            "Piji\u00f1o del Carmen":"47545"
+         },
+         {
+            "Pivijay":"47551"
+         },
+         {
+            "Plato":"47555"
+         },
+         {
+            "Pueblo Viejo":"47570"
+         },
+         {
+            "Remolino":"47605"
+         },
+         {
+            "Sabanas de San \u00c1ngel":"47660"
+         },
+         {
+            "Salamina":"47675"
+         },
+         {
+            "San Sebasti\u00e1n de Buenavista":"47692"
+         },
+         {
+            "San Zen\u00f3n":"47703"
+         },
+         {
+            "Santa Ana":"47707"
+         },
+         {
+            "Santa B\u00e1rbara de Pinto":"47720"
+         },
+         {
+            "Santa Marta":"47001"
+         },
+         {
+            "Sitionuevo":"47745"
+         },
+         {
+            "Tenerife":"47798"
+         },
+         {
+            "Zapay\u00e1n":"47960"
+         },
+         {
+            "Zona Bananera":"47980"
+         }
+      ]
+   },
+   {
+      "id":19,
+      "departamento":"Meta",
+      "ciudades":[
+         {
+            "Acac\u00edas":"50006"
+         },
+         {
+            "Barranca de Up\u00eda":"50110"
+         },
+         {
+            "Cabuyaro":"50124"
+         },
+         {
+            "Castilla la Nueva":"50150"
+         },
+         {
+            "Cubarral":"50223"
+         },
+         {
+            "Cumaral":"50226"
+         },
+         {
+            "El Calvario":"50245"
+         },
+         {
+            "El Castillo":"50251"
+         },
+         {
+            "El Dorado":"50270"
+         },
+         {
+            "Fuente de Oro":"50287"
+         },
+         {
+            "Granada":"50313"
+         },
+         {
+            "Guamal":"50318"
+         },
+         {
+            "La Macarena":"50350"
+         },
+         {
+            "La Uribe":"50370"
+         },
+         {
+            "Lejan\u00edas":"50400"
+         },
+         {
+            "Mapirip\u00e1n":"50325"
+         },
+         {
+            "Mesetas":"50330"
+         },
+         {
+            "Puerto Concordia":"50450"
+         },
+         {
+            "Puerto Gait\u00e1n":"50568"
+         },
+         {
+            "Puerto Lleras":"50577"
+         },
+         {
+            "Puerto L\u00f3pez":"50573"
+         },
+         {
+            "Puerto Rico":"50590"
+         },
+         {
+            "Restrepo":"50606"
+         },
+         {
+            "San Carlos de Guaroa":"50680"
+         },
+         {
+            "San Juan de Arama":"50683"
+         },
+         {
+            "San Juanito":"50686"
+         },
+         {
+            "San Mart\u00edn":"50689"
+         },
+         {
+            "Villavicencio":"50001"
+         },
+         {
+            "Vista Hermosa":"50711"
+         }
+      ]
+   },
+   {
+      "id":20,
+      "departamento":"Nari\u00f1o",
+      "ciudades":[
+         {
+            "Aldana":"52022"
+         },
+         {
+            "Ancuy\u00e1":"52036"
+         },
+         {
+            "Arboleda":"52051"
+         },
+         {
+            "Barbacoas":"52079"
+         },
+         {
+            "Bel\u00e9n":"52083"
+         },
+         {
+            "Buesaco":"52110"
+         },
+         {
+            "Chachag\u00fc\u00ed":"52240"
+         },
+         {
+            "Col\u00f3n":"52203"
+         },
+         {
+            "Consac\u00e1":"52207"
+         },
+         {
+            "Contadero":"52210"
+         },
+         {
+            "C\u00f3rdoba":"52215"
+         },
+         {
+            "Cuaspud":"52224"
+         },
+         {
+            "Cumbal":"52227"
+         },
+         {
+            "Cumbitara":"52233"
+         },
+         {
+            "El Charco":"52250"
+         },
+         {
+            "El Pe\u00f1ol":"52254"
+         },
+         {
+            "El Rosario":"52256"
+         },
+         {
+            "El Tabl\u00f3n":"52258"
+         },
+         {
+            "El Tambo":"52260"
+         },
+         {
+            "Francisco Pizarro":"52520"
+         },
+         {
+            "Funes":"52287"
+         },
+         {
+            "Guachucal":"52317"
+         },
+         {
+            "Guaitarilla":"52320"
+         },
+         {
+            "Gualmat\u00e1n":"52323"
+         },
+         {
+            "Iles":"52352"
+         },
+         {
+            "Imu\u00e9s":"52354"
+         },
+         {
+            "Ipiales":"52356"
+         },
+         {
+            "La Cruz":"52378"
+         },
+         {
+            "La Florida":"52381"
+         },
+         {
+            "La Llanada":"52385"
+         },
+         {
+            "La Tola":"52390"
+         },
+         {
+            "La Uni\u00f3n":"52399"
+         },
+         {
+            "Leiva":"52405"
+         },
+         {
+            "Linares":"52411"
+         },
+         {
+            "Los Andes":"52418"
+         },
+         {
+            "Mag\u00fc\u00ed Pay\u00e1n":"52427"
+         },
+         {
+            "Mallama":"52435"
+         },
+         {
+            "Mosquera":"52473"
+         },
+         {
+            "Nari\u00f1o":"52480"
+         },
+         {
+            "Olaya Herrera":"52490"
+         },
+         {
+            "Ospina":"52506"
+         },
+         {
+            "Pasto":"52001"
+         },
+         {
+            "Policarpa":"52540"
+         },
+         {
+            "Potos\u00ed":"52560"
+         },
+         {
+            "Providencia":"52565"
+         },
+         {
+            "Puerres":"52573"
+         },
+         {
+            "Pupiales":"52585"
+         },
+         {
+            "Ricaurte":"52612"
+         },
+         {
+            "Roberto Pay\u00e1n":"52621"
+         },
+         {
+            "Samaniego":"52678"
+         },
+         {
+            "San Bernardo":"52685"
+         },
+         {
+            "San Jos\u00e9 de Alb\u00e1n":"52019"
+         },
+         {
+            "San Lorenzo":"52687"
+         },
+         {
+            "San Pablo":"52693"
+         },
+         {
+            "San Pedro de Cartago":"52694"
+         },
+         {
+            "Sandon\u00e1":"52683"
+         },
+         {
+            "Santa B\u00e1rbara":"52696"
+         },
+         {
+            "Santacruz":"52699"
+         },
+         {
+            "Sapuyes":"52720"
+         },
+         {
+            "Taminango":"52786"
+         },
+         {
+            "Tangua":"52788"
+         },
+         {
+            "Tumaco":"52835"
+         },
+         {
+            "T\u00faquerres":"52838"
+         },
+         {
+            "Yacuanquer":"52885"
+         }
+      ]
+   },
+   {
+      "id":21,
+      "departamento":"Norte de Santander",
+      "ciudades":[
+         {
+            "\u00c1brego":"54003"
+         },
+         {
+            "Arboledas":"54051"
+         },
+         {
+            "Bochalema":"54099"
+         },
+         {
+            "Bucarasica":"54109"
+         },
+         {
+            "C\u00e1chira":"54128"
+         },
+         {
+            "C\u00e1cota":"54125"
+         },
+         {
+            "Chin\u00e1cota":"54172"
+         },
+         {
+            "Chitag\u00e1":"54174"
+         },
+         {
+            "Convenci\u00f3n":"54206"
+         },
+         {
+            "C\u00facuta":"54001"
+         },
+         {
+            "Cucutilla":"54223"
+         },
+         {
+            "Duran\u00eda":"54239"
+         },
+         {
+            "El Carmen":"54245"
+         },
+         {
+            "El Tarra":"54250"
+         },
+         {
+            "El Zulia":"54261"
+         },
+         {
+            "Gramalote":"54313"
+         },
+         {
+            "Hacar\u00ed":"54344"
+         },
+         {
+            "Herr\u00e1n":"54347"
+         },
+         {
+            "La Esperanza":"54385"
+         },
+         {
+            "La Playa de Bel\u00e9n":"54398"
+         },
+         {
+            "Labateca":"54377"
+         },
+         {
+            "Los Patios":"54405"
+         },
+         {
+            "Lourdes":"54418"
+         },
+         {
+            "Mutiscua":"54480"
+         },
+         {
+            "Oca\u00f1a":"54498"
+         },
+         {
+            "Pamplona":"54518"
+         },
+         {
+            "Pamplonita":"54520"
+         },
+         {
+            "Puerto Santander":"54553"
+         },
+         {
+            "Ragonvalia":"54599"
+         },
+         {
+            "Salazar de Las Palmas":"54660"
+         },
+         {
+            "San Calixto":"54670"
+         },
+         {
+            "San Cayetano":"54673"
+         },
+         {
+            "Santiago":"54680"
+         },
+         {
+            "Santo Domingo de Silos":"54743"
+         },
+         {
+            "Sardinata":"54720"
+         },
+         {
+            "Teorama":"54800"
+         },
+         {
+            "Tib\u00fa":"54810"
+         },
+         {
+            "Toledo":"54820"
+         },
+         {
+            "Villa Caro":"54871"
+         },
+         {
+            "Villa del Rosario":"54874"
+         }
+      ]
+   },
+   {
+      "id":22,
+      "departamento":"Putumayo",
+      "ciudades":[
+         {
+            "Col\u00f3n":"86219"
+         },
+         {
+            "Mocoa":"86001"
+         },
+         {
+            "Orito":"86320"
+         },
+         {
+            "Puerto As\u00eds":"86568"
+         },
+         {
+            "Puerto Caicedo":"86569"
+         },
+         {
+            "Puerto Guzm\u00e1n":"86571"
+         },
+         {
+            "Puerto Legu\u00edzamo":"86573"
+         },
+         {
+            "San Francisco":"86755"
+         },
+         {
+            "San Miguel":"86757"
+         },
+         {
+            "Santiago":"86760"
+         },
+         {
+            "Sibundoy":"86749"
+         },
+         {
+            "Valle del Guamuez":"86865"
+         },
+         {
+            "Villagarz\u00f3n":"86885"
+         }
+      ]
+   },
+   {
+      "id":23,
+      "departamento":"Quind\u00edo",
+      "ciudades":[
+         {
+            "Armenia":"63001"
+         },
+         {
+            "Buenavista":"63111"
+         },
+         {
+            "Calarc\u00e1":"63130"
+         },
+         {
+            "Circasia":"63190"
+         },
+         {
+            "C\u00f3rdoba":"63212"
+         },
+         {
+            "Filandia":"63272"
+         },
+         {
+            "G\u00e9nova":"63302"
+         },
+         {
+            "La Tebaida":"63401"
+         },
+         {
+            "Montenegro":"63470"
+         },
+         {
+            "Pijao":"63548"
+         },
+         {
+            "Quimbaya":"63594"
+         },
+         {
+            "Salento":"63690"
+         }
+      ]
+   },
+   {
+      "id":24,
+      "departamento":"Risaralda",
+      "ciudades":[
+         {
+            "Ap\u00eda":"66045"
+         },
+         {
+            "Balboa":"66075"
+         },
+         {
+            "Bel\u00e9n de Umbr\u00eda":"66088"
+         },
+         {
+            "Dosquebradas":"66170"
+         },
+         {
+            "Gu\u00e1tica":"66318"
+         },
+         {
+            "La Celia":"66383"
+         },
+         {
+            "La Virginia":"66400"
+         },
+         {
+            "Marsella":"66440"
+         },
+         {
+            "Mistrat\u00f3":"66456"
+         },
+         {
+            "Pereira":"66001"
+         },
+         {
+            "Pueblo Rico":"66572"
+         },
+         {
+            "Quinch\u00eda":"66594"
+         },
+         {
+            "Santa Rosa de Cabal":"66682"
+         },
+         {
+            "Santuario":"66687"
+         }
+      ]
+   },
+   {
+      "id":25,
+      "departamento":"San Andr\u00e9s y Providencia",
+      "ciudades":[
+         {
+            "Providencia y Santa Catalina Islas":"88564"
+         },
+         {
+            "San Andr\u00e9s":"88001"
+         }
+      ]
+   },
+   {
+      "id":26,
+      "departamento":"Santander",
+      "ciudades":[
+         {
+            "Aguada":"68013"
+         },
+         {
+            "Albania":"68020"
+         },
+         {
+            "Aratoca":"68051"
+         },
+         {
+            "Barbosa":"68077"
+         },
+         {
+            "Barichara":"68079"
+         },
+         {
+            "Barrancabermeja":"68081"
+         },
+         {
+            "Betulia":"68092"
+         },
+         {
+            "Bol\u00edvar":"68101"
+         },
+         {
+            "Bucaramanga":"68001"
+         },
+         {
+            "Cabrera":"68121"
+         },
+         {
+            "California":"68132"
+         },
+         {
+            "Capitanejo":"68147"
+         },
+         {
+            "Carcas\u00ed":"68152"
+         },
+         {
+            "Cepit\u00e1":"68160"
+         },
+         {
+            "Cerrito":"68162"
+         },
+         {
+            "Charal\u00e1":"68167"
+         },
+         {
+            "Charta":"68169"
+         },
+         {
+            "Chima":"68176"
+         },
+         {
+            "Chipat\u00e1":"68179"
+         },
+         {
+            "Cimitarra":"68190"
+         },
+         {
+            "Concepci\u00f3n":"68207"
+         },
+         {
+            "Confines":"68209"
+         },
+         {
+            "Contrataci\u00f3n":"68211"
+         },
+         {
+            "Coromoro":"68217"
+         },
+         {
+            "Curit\u00ed":"68229"
+         },
+         {
+            "El Carmen de Chucur\u00ed":"68235"
+         },
+         {
+            "El Guacamayo":"68245"
+         },
+         {
+            "El Pe\u00f1\u00f3n":"68250"
+         },
+         {
+            "El Play\u00f3n":"68255"
+         },
+         {
+            "El Socorro":"68755"
+         },
+         {
+            "Encino":"68264"
+         },
+         {
+            "Enciso":"68266"
+         },
+         {
+            "Flori\u00e1n":"68271"
+         },
+         {
+            "Floridablanca":"68276"
+         },
+         {
+            "Gal\u00e1n":"68296"
+         },
+         {
+            "G\u00e1mbita":"68298"
+         },
+         {
+            "Gir\u00f3n":"68307"
+         },
+         {
+            "Guaca":"68318"
+         },
+         {
+            "Guadalupe":"68320"
+         },
+         {
+            "Guapot\u00e1":"68322"
+         },
+         {
+            "Guavat\u00e1":"68324"
+         },
+         {
+            "G\u00fcepsa":"68327"
+         },
+         {
+            "Hato":"68344"
+         },
+         {
+            "Jes\u00fas Mar\u00eda":"68368"
+         },
+         {
+            "Jord\u00e1n":"68370"
+         },
+         {
+            "La Belleza":"68377"
+         },
+         {
+            "La Paz":"68397"
+         },
+         {
+            "Land\u00e1zuri":"68385"
+         },
+         {
+            "Lebrija":"68406"
+         },
+         {
+            "Los Santos":"68418"
+         },
+         {
+            "Macaravita":"68425"
+         },
+         {
+            "M\u00e1laga":"68432"
+         },
+         {
+            "Matanza":"68444"
+         },
+         {
+            "Mogotes":"68464"
+         },
+         {
+            "Molagavita":"68468"
+         },
+         {
+            "Ocamonte":"68498"
+         },
+         {
+            "Oiba":"68500"
+         },
+         {
+            "Onzaga":"68502"
+         },
+         {
+            "Palmar":"68522"
+         },
+         {
+            "Palmas del Socorro":"68524"
+         },
+         {
+            "P\u00e1ramo":"68533"
+         },
+         {
+            "Piedecuesta":"68547"
+         },
+         {
+            "Pinchote":"68549"
+         },
+         {
+            "Puente Nacional":"68572"
+         },
+         {
+            "Puerto Parra":"68573"
+         },
+         {
+            "Puerto Wilches":"68575"
+         },
+         {
+            "Rionegro":"68615"
+         },
+         {
+            "Sabana de Torres":"68655"
+         },
+         {
+            "San Andr\u00e9s":"88001"
+         },
+         {
+            "San Benito":"68673"
+         },
+         {
+            "San Gil":"68679"
+         },
+         {
+            "San Joaqu\u00edn":"68682"
+         },
+         {
+            "San Jos\u00e9 de Miranda":"68684"
+         },
+         {
+            "San Miguel":"86757"
+         },
+         {
+            "San Vicente de Chucur\u00ed":"68689"
+         },
+         {
+            "Santa B\u00e1rbara":"68705"
+         },
+         {
+            "Santa Helena del Op\u00f3n":"68720"
+         },
+         {
+            "Simacota":"68745"
+         },
+         {
+            "Suaita":"68770"
+         },
+         {
+            "Sucre":"68773"
+         },
+         {
+            "Surat\u00e1":"68780"
+         },
+         {
+            "Tona":"68820"
+         },
+         {
+            "Valle de San Jos\u00e9":"68855"
+         },
+         {
+            "V\u00e9lez":"68861"
+         },
+         {
+            "Vetas":"68867"
+         },
+         {
+            "Villanueva":"68872"
+         },
+         {
+            "Zapatoca":"68895"
+         }
+      ]
+   },
+   {
+      "id":27,
+      "departamento":"Sucre",
+      "ciudades":[
+         {
+            "Buenavista":"15109"
+         },
+         {
+            "Caimito":"70124"
+         },
+         {
+            "Chal\u00e1n":"70230"
+         },
+         {
+            "Colos\u00f3":"70204"
+         },
+         {
+            "Corozal":"70215"
+         },
+         {
+            "Cove\u00f1as":"70221"
+         },
+         {
+            "El Roble":"70233"
+         },
+         {
+            "Galeras":"70235"
+         },
+         {
+            "Guaranda":"70265"
+         },
+         {
+            "La Uni\u00f3n":"70400"
+         },
+         {
+            "Los Palmitos":"70418"
+         },
+         {
+            "Majagual":"70429"
+         },
+         {
+            "Morroa":"70473"
+         },
+         {
+            "Ovejas":"70508"
+         },
+         {
+            "Sampu\u00e9s":"70670"
+         },
+         {
+            "San Antonio de Palmito":"70418"
+         },
+         {
+            "San Benito Abad":"70678"
+         },
+         {
+            "San Juan de Betulia":"70702"
+         },
+         {
+            "San Marcos":"70708"
+         },
+         {
+            "San Onofre":"70713"
+         },
+         {
+            "San Pedro":"70717"
+         },
+         {
+            "Sinc\u00e9":"70742"
+         },
+         {
+            "Sincelejo":"70001"
+         },
+         {
+            "Sucre":"70771"
+         },
+         {
+            "Tol\u00fa":"70771"
+         },
+         {
+            "Tol\u00fa Viejo":"70823"
+         }
+      ]
+   },
+   {
+      "id":28,
+      "departamento":"Tolima",
+      "ciudades":[
+         {
+            "Alpujarra":"73024"
+         },
+         {
+            "Alvarado":"73026"
+         },
+         {
+            "Ambalema":"73030"
+         },
+         {
+            "Anzo\u00e1tegui":"73043"
+         },
+         {
+            "Armero":"73055"
+         },
+         {
+            "Ataco":"73067"
+         },
+         {
+            "Cajamarca":"73124"
+         },
+         {
+            "Carmen de Apical\u00e1":"73148"
+         },
+         {
+            "Casabianca":"73152"
+         },
+         {
+            "Chaparral":"73168"
+         },
+         {
+            "Coello":"73200"
+         },
+         {
+            "Coyaima":"73217"
+         },
+         {
+            "Cunday":"73226"
+         },
+         {
+            "Dolores":"73236"
+         },
+         {
+            "El Espinal":"73268"
+         },
+         {
+            "Fal\u00e1n":"73270"
+         },
+         {
+            "Flandes":"73275"
+         },
+         {
+            "Fresno":"73283"
+         },
+         {
+            "Guamo":"73319"
+         },
+         {
+            "Herveo":"73347"
+         },
+         {
+            "Honda":"73349"
+         },
+         {
+            "Ibagu\u00e9":"73001"
+         },
+         {
+            "Icononzo":"73352"
+         },
+         {
+            "L\u00e9rida":"73408"
+         },
+         {
+            "L\u00edbano":"73411"
+         },
+         {
+            "Mariquita":"73443"
+         },
+         {
+            "Melgar":"73449"
+         },
+         {
+            "Murillo":"73461"
+         },
+         {
+            "Natagaima":"73483"
+         },
+         {
+            "Ortega":"73504"
+         },
+         {
+            "Palocabildo":"73520"
+         },
+         {
+            "Piedras":"73547"
+         },
+         {
+            "Planadas":"73555"
+         },
+         {
+            "Prado":"73563"
+         },
+         {
+            "Purificaci\u00f3n":"73585"
+         },
+         {
+            "Rioblanco":"73616"
+         },
+         {
+            "Roncesvalles":"73622"
+         },
+         {
+            "Rovira":"73624"
+         },
+         {
+            "Salda\u00f1a":"73671"
+         },
+         {
+            "San Antonio":"73675"
+         },
+         {
+            "San Luis":"73678"
+         },
+         {
+            "Santa Isabel":"73686"
+         },
+         {
+            "Su\u00e1rez":"73770"
+         },
+         {
+            "Valle de San Juan":"73854"
+         },
+         {
+            "Venadillo":"73861"
+         },
+         {
+            "Villahermosa":"73870"
+         },
+         {
+            "Villarrica":"73873"
+         }
+      ]
+   },
+   {
+      "id":29,
+      "departamento":"Valle del Cauca",
+      "ciudades":[
+         {
+            "Alcal\u00e1":"76020"
+         },
+         {
+            "Andaluc\u00eda":"76036"
+         },
+         {
+            "Ansermanuevo":"76041"
+         },
+         {
+            "Argelia":"76054"
+         },
+         {
+            "Bol\u00edvar":"76100"
+         },
+         {
+            "Buenaventura":"76109"
+         },
+         {
+            "Buga":"76111"
+         },
+         {
+            "Bugalagrande":"76113"
+         },
+         {
+            "Caicedonia":"76122"
+         },
+         {
+            "Cali":"76001"
+         },
+         {
+            "Calima":"76126"
+         },
+         {
+            "Candelaria":"76130"
+         },
+         {
+            "Cartago":"76147"
+         },
+         {
+            "Dagua":"76233"
+         },
+         {
+            "El \u00c1guila":"76243"
+         },
+         {
+            "El Cairo":"76246"
+         },
+         {
+            "El Cerrito":"76248"
+         },
+         {
+            "El Dovio":"76250"
+         },
+         {
+            "Florida":"76275"
+         },
+         {
+            "Ginebra":"76306"
+         },
+         {
+            "Guacar\u00ed":"76318"
+         },
+         {
+            "Jamund\u00ed":"76364"
+         },
+         {
+            "La Cumbre":"76377"
+         },
+         {
+            "La Uni\u00f3n":"76400"
+         },
+         {
+            "La Victoria":"76403"
+         },
+         {
+            "Obando":"76497"
+         },
+         {
+            "Palmira":"76520"
+         },
+         {
+            "Pradera":"76563"
+         },
+         {
+            "Restrepo":"76606"
+         },
+         {
+            "Riofr\u00edo":"76616"
+         },
+         {
+            "Roldanillo":"76622"
+         },
+         {
+            "San Pedro":"70717"
+         },
+         {
+            "Sevilla":"76736"
+         },
+         {
+            "Toro":"76823"
+         },
+         {
+            "Trujillo":"76828"
+         },
+         {
+            "Tulu\u00e1":"76834"
+         },
+         {
+            "Ulloa":"76845"
+         },
+         {
+            "Versalles":"76863"
+         },
+         {
+            "Vijes":"76869"
+         },
+         {
+            "Yotoco":"76890"
+         },
+         {
+            "Yumbo":"76892"
+         },
+         {
+            "Zarzal":"76895"
+         }
+      ]
+   },
+   {
+      "id":30,
+      "departamento":"Vaup\u00e9s",
+      "ciudades":[
+         {
+            "Carur\u00fa":"97161"
+         },
+         {
+            "Mit\u00fa":"97001"
+         },
+         {
+            "Taraira":"97666"
+         }
+      ]
+   },
+   {
+      "id":31,
+      "departamento":"Vichada",
+      "ciudades":[
+         {
+            "Cumaribo":"99773"
+         },
+         {
+            "La Primavera":"99524"
+         },
+         {
+            "Puerto Carre\u00f1o":"99001"
+         },
+         {
+            "Santa Rosal\u00eda":99624
+         }
+      ]
+   }
 ]
