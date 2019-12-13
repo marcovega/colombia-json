@@ -3,7 +3,7 @@
 Lista de departamentos con sus respectivas ciudades en json.
 
 La lista ha sido extraída de la página de Wikipedia [Anexo:Municipios de Colombia](https://es.wikipedia.org/wiki/Anexo:Municipios_de_Colombia)
-el 1 de Febrero del 2016.
+el 1 de Febrero del 2016..
 
 Incluyen 31 departamentos y 1124 municipios / pueblos / ciudades.
 
